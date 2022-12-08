@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scenario Logout</description>
+   <name>Scenario_06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6a0b9be-37e0-461e-9161-b1f1e363fb1f</testCaseGuid>
+</TestCaseEntity>

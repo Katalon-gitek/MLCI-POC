@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scenario Create/Add CAM
+Scenario Upload Customer Document
+Scenario Upload Data Survey ( SLIK;Pefindo )</description>
+   <name>Scenario_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>474c22d9-f664-4d2b-9f49-ceb89252e2b7</testCaseGuid>
+</TestCaseEntity>
