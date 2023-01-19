@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('http://192.168.4.193/newcam_katalon/login.php')
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('Septi/Username'), 'dwi_saputra')
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('Septi/Password'), '123')
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Septi/Button Login'))
+
