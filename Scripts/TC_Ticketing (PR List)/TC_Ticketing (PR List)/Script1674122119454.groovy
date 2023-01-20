@@ -17,3 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('http://192.168.4.193/ticketing')
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/1. Halaman Login.png')
+
+WebUI.setMaskedText(findTestObject('OBJ_Ticketing (PR List)/Login_Username'), 'jessen_yaputra')
+
+WebUI.setEncryptedText(findTestObject('OBJ_Ticketing (PR List)/Login_Password'), 'tzH6RvlfSTg=')
+
+WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Login_Button'))
+
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/2. Halaman Utama Ticketing.png')
+
+WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Main Menu_PR List'))
+
+WebUI.switchToWindowTitle('MLCI - PR LIST')
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/3. Halaman PR List.png')
+
+WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Detail PR List'))
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/4. PR List.png')
+
+WebUI.closeBrowser()
+

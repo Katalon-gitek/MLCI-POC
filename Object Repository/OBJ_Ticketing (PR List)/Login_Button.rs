@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Login_Button</name>
+   <tag></tag>
+   <elementGuidId>86460788-76d6-43c1-be74-dcc6c105d1df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/section/form/p[3]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.icon-arrow-right</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

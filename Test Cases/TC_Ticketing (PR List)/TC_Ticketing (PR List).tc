@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Case Jessen</name>
+   <name>TC_Ticketing (PR List)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a259da29-4b9e-400a-a6c4-fefb4b41b9c6</testCaseGuid>
+   <testCaseGuid>5a03dea8-4127-4713-bef2-7d61b0ea4135</testCaseGuid>
 </TestCaseEntity>
