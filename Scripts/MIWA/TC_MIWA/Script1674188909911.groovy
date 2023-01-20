@@ -17,17 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://192.168.4.193/newcam_katalon/login.php')
+WebUI.openBrowser('https://192.168.4.193/coremain/')
 
-WebUI.delay(5)
+WebUI.takeFullPageScreenshot()
 
-WebUI.setText(findTestObject('Septi/Username'), 'dwi_saputra')
+WebUI.setText(findTestObject('MIWA/1_username'), 'septi_maulita')
 
-WebUI.delay(5)
+WebUI.setEncryptedText(findTestObject('MIWA/2_password'), 'tzH6RvlfSTg=')
 
-WebUI.setText(findTestObject('Septi/Password'), '123')
+WebUI.click(findTestObject('MIWA/3_login'))
 
-WebUI.delay(5)
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Septi/Button Login'))
+WebUI.takeFullPageScreenshot()
+
+WebUI.click(findTestObject('MIWA/4_eapproval'))
+
+WebUI.switchToWindowTitle('EA - Mitsui Leasing Capital Indonesia')
+
+WebUI.click(findTestObject('MIWA/5_sidebar'))
+
+WebUI.click(findTestObject('MIWA/6_inbox'))
 
