@@ -35,11 +35,37 @@ WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Main Menu_PR List'))
 
 WebUI.switchToWindowTitle('MLCI - PR LIST')
 
+WebUI.delay(3)
+
 WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/3. Halaman PR List.png')
 
 WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Detail PR List'))
 
 WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/4. PR List.png')
+
+WebUI.selectOptionByValue(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_Dropdown Division'), '50', false)
+
+WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_ Search'))
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/5. PR List_SIT.png')
+
+WebUI.selectOptionByValue(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_Dropdown Division'), '10', false)
+
+WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_ Search'))
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/6. PR List_OP.png')
+
+WebUI.selectOptionByValue(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_Dropdown Division'), '20', false)
+
+WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_ Search'))
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/7. PR List_CA.png')
+
+WebUI.selectOptionByValue(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_Dropdown Division'), '40', false)
+
+WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_ Search'))
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/8. PR List_FA.png')
 
 WebUI.closeBrowser()
 
