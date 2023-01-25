@@ -67,5 +67,7 @@ WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_ Search'))
 
 WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/1. PR List (Ticketing)/8. PR List_FA.png')
 
+WebUI.click(findTestObject('OBJ_Ticketing (PR List)/Detail PR List_Log Out'))
+
 WebUI.closeBrowser()
 
