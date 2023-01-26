@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>5_sidebar</name>
+   <name>9_inprogress</name>
    <tag></tag>
-   <elementGuidId>38852c2c-727a-4b8a-a452-00ef438d5ffa</elementGuidId>
+   <elementGuidId>fb0ffcc6-48cf-47e0-8fd7-d1996e07adf6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#sidebarCollapse</value>
+         <value>#\35 0083 > li:nth-child(2) > a:nth-child(1) > div:nth-child(1) > div:nth-child(2)</value>
       </entry>
       <entry>
          <key>BASIC</key>

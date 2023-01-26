@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_MIWA</name>
+   <name>TC_MIWA-Docstorage</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cd810258-d1e4-4ce8-8802-ba903e663b05</testCaseGuid>
+   <testCaseGuid>bb7527dd-d933-4417-b265-0f86cfcabc07</testCaseGuid>
 </TestCaseEntity>
