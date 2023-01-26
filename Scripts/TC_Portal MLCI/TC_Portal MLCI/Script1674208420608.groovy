@@ -27,7 +27,27 @@ WebUI.setEncryptedText(findTestObject('OBJ_Portal MLCI/Login_Password'), 'tzH6Rv
 
 WebUI.click(findTestObject('OBJ_Portal MLCI/Login_Button'))
 
-WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/2. Portal MLCI/2. Halaman Utama.png')
+WebUI.switchToWindowTitle('Mitsui-Intranet')
 
-WebUI.mouseOver(findTestObject('OBJ_Portal MLCI/Regulation'))
+WebUI.waitForPageLoad(2)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/2. Portal MLCI/2. Halaman Login.png')
+
+WebUI.click(findTestObject('OBJ_Portal MLCI/Regulation'))
+
+WebUI.click(findTestObject('OBJ_Portal MLCI/Regulation_Company Regulation'))
+
+WebUI.click(findTestObject('OBJ_Portal MLCI/Regulation_Company Regulation_View'))
+
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/2. Portal MLCI/3. Company Regulation.png')
+
+WebUI.click(findTestObject('OBJ_Portal MLCI/Regulation_Company Regulation_View_Close'))
+
+WebUI.click(findTestObject('OBJ_Portal MLCI/Regulation'))
+
+WebUI.click(findTestObject('OBJ_Portal MLCI/Regulation_SOP'))
+
+WebUI.click(findTestObject('OBJ_Portal MLCI/Regulation_SOP_View'))
 

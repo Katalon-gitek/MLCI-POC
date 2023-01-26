@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Regulation</name>
+   <name>Regulation_SOP_View</name>
    <tag></tag>
-   <elementGuidId>9eec72e1-c043-4175-aa5b-76c0dcd8480c</elementGuidId>
+   <elementGuidId>34a857e6-b502-4685-9f61-30008959af25</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>#sm-1674641088032932-1</value>
+         <value>#table_sop > tbody:nth-child(1) > tr:nth-child(4) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(4) > a:nth-child(1)
+</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/table[1]/tbody/tr[4]/td/nav/ul/li[2]/a/span</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

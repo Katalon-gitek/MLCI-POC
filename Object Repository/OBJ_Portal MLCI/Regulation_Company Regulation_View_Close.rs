@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Regulation</name>
+   <name>Regulation_Company Regulation_View_Close</name>
    <tag></tag>
-   <elementGuidId>9eec72e1-c043-4175-aa5b-76c0dcd8480c</elementGuidId>
+   <elementGuidId>5f802d04-e286-497e-8b36-85a8b6323017</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#sm-1674641088032932-1</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/table[1]/tbody/tr[4]/td/nav/ul/li[2]/a/span</value>
+         <value>.close</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

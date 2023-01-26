@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Regulation</name>
+   <name>User Profile</name>
    <tag></tag>
-   <elementGuidId>9eec72e1-c043-4175-aa5b-76c0dcd8480c</elementGuidId>
+   <elementGuidId>a3378637-f6b7-438e-8541-3835c364833b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#sm-1674641088032932-1</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/table[1]/tbody/tr[4]/td/nav/ul/li[2]/a/span</value>
+         <value>#main-menu > li:nth-child(4) > a:nth-child(1)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

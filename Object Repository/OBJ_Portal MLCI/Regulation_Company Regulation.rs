@@ -7,17 +7,16 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sm-16746418720747625-2 > li:nth-child(1) > a:nth-child(1)</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/table[1]/tbody/tr[4]/td/nav/ul/li[2]/ul/li[1]/a</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
