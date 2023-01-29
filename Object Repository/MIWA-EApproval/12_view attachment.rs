@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>10_approved</name>
+   <name>12_view attachment</name>
    <tag></tag>
-   <elementGuidId>ce31ea09-cda6-4e6e-b5d6-d30e22cdba5b</elementGuidId>
+   <elementGuidId>a8bbfbea-3d71-4423-8624-4ed99ed29741</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#\35 0083 > li:nth-child(3) > a:nth-child(1) > div:nth-child(1) > div:nth-child(2)</value>
+         <value>#tblx > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3) > img:nth-child(1)</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>8_onhand</name>
+   <name>14_closepage</name>
    <tag></tag>
-   <elementGuidId>bb125968-e2ef-4ad1-a214-b4ad378af709</elementGuidId>
+   <elementGuidId>fdef7723-3f2e-497f-9ee0-a5dd3b4426e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#\35 0083 > li:nth-child(1) > a:nth-child(1) > div:nth-child(1) > div:nth-child(2)</value>
+         <value>a.fa-sign-out</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
