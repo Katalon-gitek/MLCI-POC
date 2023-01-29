@@ -6,12 +6,11 @@
    <elementGuidId>a3378637-f6b7-438e-8541-3835c364833b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#main-menu > li:nth-child(4) > a:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

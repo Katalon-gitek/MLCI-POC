@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Regulation_Company Regulation_View</name>
+   <name>User Profile_Branch</name>
    <tag></tag>
-   <elementGuidId>8a269542-9571-4647-97be-60dff8b123f8</elementGuidId>
+   <elementGuidId>0074c777-de46-48ad-9e8c-06bbc045fb15</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.gallery > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > a:nth-child(1)
-</value>
+         <value>#branch</value>
       </entry>
       <entry>
          <key>BASIC</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>

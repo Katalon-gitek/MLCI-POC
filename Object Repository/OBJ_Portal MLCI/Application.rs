@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Regulation_Company Regulation_View</name>
+   <name>Application</name>
    <tag></tag>
-   <elementGuidId>8a269542-9571-4647-97be-60dff8b123f8</elementGuidId>
+   <elementGuidId>a3afc654-4e7a-4a50-aeb7-9acb7d8d0aa0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.gallery > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > a:nth-child(1)
-</value>
+         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>/html/body/table[1]/tbody/tr[4]/td/nav/ul/li[3]/a/span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

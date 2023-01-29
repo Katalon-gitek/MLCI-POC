@@ -6,17 +6,17 @@
    <elementGuidId>9eec72e1-c043-4175-aa5b-76c0dcd8480c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#sm-1674641088032932-1</value>
+         <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/table[1]/tbody/tr[4]/td/nav/ul/li[2]/a/span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

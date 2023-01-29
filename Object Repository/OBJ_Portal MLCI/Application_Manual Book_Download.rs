@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Regulation_Company Regulation_View</name>
+   <name>Application_Manual Book_Download</name>
    <tag></tag>
-   <elementGuidId>8a269542-9571-4647-97be-60dff8b123f8</elementGuidId>
+   <elementGuidId>5fc154a3-27a8-4d6a-8fe7-ee5efc0f719c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.gallery > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > a:nth-child(1)
-</value>
+         <value>body > table:nth-child(16) > tbody:nth-child(1) > tr:nth-child(4) > td:nth-child(1) > table:nth-child(74) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(4) > a:nth-child(1)</value>
       </entry>
       <entry>
          <key>BASIC</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>

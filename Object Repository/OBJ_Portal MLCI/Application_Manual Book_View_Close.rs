@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Regulation_Company Regulation_View</name>
+   <name>Application_Manual Book_View_Close</name>
    <tag></tag>
-   <elementGuidId>8a269542-9571-4647-97be-60dff8b123f8</elementGuidId>
+   <elementGuidId>6e7ec9d6-d92c-4da7-9938-fe1ce1f1c78f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.gallery > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > a:nth-child(1)
-</value>
+         <value>#myModal56 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > button:nth-child(1)</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

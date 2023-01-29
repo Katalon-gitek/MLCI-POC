@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Regulation_Company Regulation_View</name>
+   <name>Regulation_SOP_View_Close</name>
    <tag></tag>
-   <elementGuidId>8a269542-9571-4647-97be-60dff8b123f8</elementGuidId>
+   <elementGuidId>f3a4b43d-0b58-4273-add1-16a94bc4e7d8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.gallery > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > a:nth-child(1)
-</value>
+         <value>.close</value>
       </entry>
       <entry>
          <key>BASIC</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>
