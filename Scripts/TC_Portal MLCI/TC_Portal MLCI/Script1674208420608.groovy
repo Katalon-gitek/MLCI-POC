@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://192.168.4.206:8099/portal_update/')
+WebUI.openBrowser('https://portal.mitsuilease.co.id/')
 
 WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/2. Portal MLCI/1. Halaman Login.png')
 
 WebUI.setMaskedText(findTestObject('OBJ_Portal MLCI/Login_Username'), 'jessen_yaputra')
 
-WebUI.setEncryptedText(findTestObject('OBJ_Portal MLCI/Login_Password'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('OBJ_Portal MLCI/Login_Password'), 'FegelPVVC31AbCTjQ/6HeA==')
 
 WebUI.click(findTestObject('OBJ_Portal MLCI/Login_Button'))
 
@@ -94,4 +94,6 @@ WebUI.takeFullPageScreenshot('D:/_Doc/JESSEN/DATA/Katalon Reports/2. Portal MLCI
 WebUI.click(findTestObject('OBJ_Portal MLCI/Employee Form_Download'))
 
 WebUI.click(findTestObject('OBJ_Portal MLCI/Log out'))
+
+WebUI.closeBrowser()
 

@@ -6,15 +6,14 @@
    <elementGuidId>5f802d04-e286-497e-8b36-85a8b6323017</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value>.close</value>
+         <value>#fancybox-close</value>
       </entry>
       <entry>
          <key>BASIC</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
