@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>9_approved</name>
+   <name>7_send</name>
    <tag></tag>
-   <elementGuidId>ce31ea09-cda6-4e6e-b5d6-d30e22cdba5b</elementGuidId>
+   <elementGuidId>e4958713-c7d5-4f60-a752-6d8dd2ce0b1e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#\35 0083 > li:nth-child(3) > a:nth-child(1) > div:nth-child(1) > div:nth-child(2)</value>
+         <value>div.table-responsive-md:nth-child(1) > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(2) > td:nth-child(2) > button:nth-child(1)</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

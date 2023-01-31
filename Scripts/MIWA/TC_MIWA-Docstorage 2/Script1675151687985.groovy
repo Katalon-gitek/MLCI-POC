@@ -17,13 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://miwa.mitsuilease.co.id/')
+WebUI.openBrowser('https://192.168.4.193/coremain/')
 
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA DOC STORAGE/1. Halaman utama.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA DOC STORAGE 2/1. Halaman utama.png')
 
-WebUI.setText(findTestObject('MIWA-Docstorage/1_username'), 'ardian_wibowo')
+WebUI.setText(findTestObject('MIWA-Docstorage 2/1_username'), 'septi_maulita')
 
-WebUI.setEncryptedText(findTestObject('MIWA-Docstorage/2_password'), 'kMZ1DUrY0bPHJvX3k0mw5ys3/NkVM9kH')
+WebUI.setEncryptedText(findTestObject('MIWA-Docstorage 2/2_password'), 'tzH6RvlfSTg=')
 
-WebUI.click(findTestObject('MIWA-Docstorage/3_login'))
+WebUI.click(findTestObject('MIWA-Docstorage 2/3_login'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA DOC STORAGE 2/2. Setelah Login.png')
 

@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>13_close attachment</name>
+   <name>download</name>
    <tag></tag>
-   <elementGuidId>a4e14b84-e20b-4454-b7ea-a3cd1c56defe</elementGuidId>
+   <elementGuidId>fcdc80c8-25e8-41d3-81e5-b41ca40a9d10</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.btn</value>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

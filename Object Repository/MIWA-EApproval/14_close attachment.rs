@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>14_closepage</name>
+   <name>14_close attachment</name>
    <tag></tag>
-   <elementGuidId>fdef7723-3f2e-497f-9ee0-a5dd3b4426e1</elementGuidId>
+   <elementGuidId>a4e14b84-e20b-4454-b7ea-a3cd1c56defe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.fa-sign-out</value>
+         <value>div.btn</value>
       </entry>
       <entry>
          <key>BASIC</key>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>12_view attachment</name>
+   <name>2_password</name>
    <tag></tag>
-   <elementGuidId>a8bbfbea-3d71-4423-8624-4ed99ed29741</elementGuidId>
+   <elementGuidId>177e82cb-c100-438e-bf4f-d53dad7b6a12</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#tblx > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3) > img:nth-child(1)</value>
+         <value>#password</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

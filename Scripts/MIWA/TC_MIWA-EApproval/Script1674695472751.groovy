@@ -39,77 +39,113 @@ WebUI.click(findTestObject('MIWA-EApproval/5_sidebar'))
 
 WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/3. Open Eapproval.png')
 
-WebUI.click(findTestObject('MIWA-EApproval/6_approval'))
-
-WebUI.click(findTestObject('MIWA-EApproval/7_onhand'))
-
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/4. On Hand.png')
-
-WebUI.click(findTestObject('MIWA-EApproval/11_view memo'))
-
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/5. View Memo On Hand.png')
-
-WebUI.click(findTestObject('MIWA-EApproval/12_view attachment'))
+WebUI.click(findTestObject('MIWA-EApproval/6_open memo'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/6. View Attachment On Hand.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/4. Open Memo.png')
 
-WebUI.click(findTestObject('MIWA-EApproval/13_close attachment'))
+WebUI.click(findTestObject('MIWA-EApproval/7_send'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/5. Send.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/8_continue'))
+
+WebUI.click(findTestObject('MIWA-EApproval/9_continue-yes'))
 
 WebUI.click(findTestObject('MIWA-EApproval/5_sidebar'))
 
-WebUI.click(findTestObject('MIWA-EApproval/8_inprogress'))
+WebUI.click(findTestObject('MIWA-EApproval/10_approval'))
 
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/7. In Progress.png')
-
-WebUI.click(findTestObject('MIWA-EApproval/11_view memo'))
-
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/8. View Memo In Progress.png')
-
-WebUI.click(findTestObject('MIWA-EApproval/12_view attachment'))
+WebUI.click(findTestObject('MIWA-EApproval/11_onhand'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/9. View Attachment In Progress.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/6. On Hand.png')
 
-WebUI.click(findTestObject('MIWA-EApproval/13_close attachment'))
+WebUI.click(findTestObject('MIWA-EApproval/12_view memo'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/7. View Memo On Hand.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/13_view attachment'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/8. View Attachment On Hand.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/14_close attachment'))
 
 WebUI.click(findTestObject('MIWA-EApproval/5_sidebar'))
 
-WebUI.click(findTestObject('MIWA-EApproval/9_approved'))
-
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/10. Approved.png')
-
-WebUI.click(findTestObject('MIWA-EApproval/11_view memo'))
-
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/11. View Memo Approved.png')
-
-WebUI.click(findTestObject('MIWA-EApproval/12_view attachment'))
+WebUI.click(findTestObject('MIWA-EApproval/15_inprogress'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/12. View Attachment Approved.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/9. In Progress.png')
 
-WebUI.click(findTestObject('MIWA-EApproval/13_close attachment'))
+WebUI.click(findTestObject('MIWA-EApproval/12_view memo'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/10. View Memo In Progress.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/13_view attachment'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/11. View Attachment In Progress.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/14_close attachment'))
 
 WebUI.click(findTestObject('MIWA-EApproval/5_sidebar'))
 
-WebUI.click(findTestObject('MIWA-EApproval/10_rejected'))
-
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/13. Rejected.png')
-
-WebUI.click(findTestObject('MIWA-EApproval/11_view memo'))
-
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/14. View Memo Rejected.png')
-
-WebUI.click(findTestObject('MIWA-EApproval/12_view attachment'))
+WebUI.click(findTestObject('MIWA-EApproval/16_approved'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/15. View Attachment Rejected.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/12. Approved.png')
 
-WebUI.click(findTestObject('MIWA-EApproval/13_close attachment'))
+WebUI.click(findTestObject('MIWA-EApproval/12_view memo'))
 
-WebUI.click(findTestObject('MIWA-EApproval/14_closepage'))
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/13. View Memo Approved.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/13_view attachment'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/14. View Attachment Approved.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/14_close attachment'))
+
+WebUI.click(findTestObject('MIWA-EApproval/5_sidebar'))
+
+WebUI.click(findTestObject('MIWA-EApproval/17_rejected'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/15. Rejected.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/12_view memo'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/16. View Memo Rejected.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/13_view attachment'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/SEPTI MAULITA/Katalon/MIWA E-APPROVAL/17. View Attachment Rejected.png')
+
+WebUI.click(findTestObject('MIWA-EApproval/14_close attachment'))
+
+WebUI.click(findTestObject('MIWA-EApproval/18_closepage'))
+
+WebUI.switchToWindowTitle('Mitsui Leasing Capital Indonesia Core Application')
+
+WebUI.click(findTestObject('MIWA-EApproval/19_logout'))
 
