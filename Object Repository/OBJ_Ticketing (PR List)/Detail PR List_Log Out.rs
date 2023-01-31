@@ -7,14 +7,13 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#cssmenu > ul:nth-child(1) > li:nth-child(8) > a:nth-child(1) > span:nth-child(1)</value>
       </entry>
       <entry>
          <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cssmenu > ul:nth-child(1) > li:nth-child(5) > a:nth-child(1) > span:nth-child(1)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
