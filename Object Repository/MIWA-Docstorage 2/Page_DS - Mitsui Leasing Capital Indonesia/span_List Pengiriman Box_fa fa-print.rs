@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_List Pengiriman Box_fa fa-print</name>
+   <tag></tag>
+   <elementGuidId>fa58ed89-c114-4581-8661-068a52b7b823</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[3]/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-print</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>056c32f5-5fe4-493d-b775-ca7bf8338297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ffb5229a-4b5b-4f86-a2c6-02e7f72c294a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-print</value>
+      <webElementGuid>5a45db53-332b-40d9-a457-b3d8c6048761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;viewpage&quot;]/div[@class=&quot;pagelayout&quot;]/div[@class=&quot;navigasi&quot;]/div[1]/div[@class=&quot;form-inline&quot;]/button[@class=&quot;btn btn-info&quot;]/span[@class=&quot;fa fa-print&quot;]</value>
+      <webElementGuid>ecbd6b8e-e405-42d8-86fc-4ab4a80250b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div/div/button/span</value>
+      <webElementGuid>6c551d74-b2a5-4a01-a3ee-e5603422cbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button/span</value>
+      <webElementGuid>b2b1d934-5f7a-413b-b20b-b2a8e21f68a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

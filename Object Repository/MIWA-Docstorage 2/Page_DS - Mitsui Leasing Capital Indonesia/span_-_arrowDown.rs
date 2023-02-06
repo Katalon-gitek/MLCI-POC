@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-_arrowDown</name>
+   <tag></tag>
+   <elementGuidId>9c8d6f8b-c653-4070-ae80-818ecb7d30eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.arrowDown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4f512b8-15c3-4ca4-a184-a90b00964059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrowDown</value>
+      <webElementGuid>385731d3-0a5c-4b3c-8c73-198acc5a367d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;flatpickr-calendar animate showTimeInput open arrowTop&quot;]/div[@class=&quot;flatpickr-months&quot;]/div[@class=&quot;flatpickr-month&quot;]/div[@class=&quot;flatpickr-current-month&quot;]/div[@class=&quot;numInputWrapper&quot;]/span[@class=&quot;arrowDown&quot;]</value>
+      <webElementGuid>44486f39-eeb7-410d-b523-2fff8de93840</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>da313582-7ff5-4f66-bee5-c70ef1212a92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_INFORMATION TECHNOLOGYINTERNAL PROCEDURE</name>
+   <tag></tag>
+   <elementGuidId>88f0373a-ad76-4fca-9779-7f9fd53c7136</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[3]/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-inline > select.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4ba01acd-aa1a-4ad4-94a5-c864fb4ddd8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>231fef55-59ad-4e57-a973-e3ad961e1b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INFORMATION TECHNOLOGYINTERNAL PROCEDURE</value>
+      <webElementGuid>07c7275f-56a4-406c-b498-5c370acfb29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;viewpage&quot;]/div[@class=&quot;pagelayout&quot;]/div[@class=&quot;navigasi&quot;]/div[1]/div[@class=&quot;form-inline&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>465be845-56b9-486f-854e-95e320e70893</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div/div/select</value>
+      <webElementGuid>f062f8d9-da8d-46bb-8e48-568792b5af60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Pengiriman Box'])[2]/following::select[1]</value>
+      <webElementGuid>e457e107-4c5d-42c0-a7b8-8e2c9d7b4494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::select[1]</value>
+      <webElementGuid>6497c71b-f5d4-46e8-9698-8a45b3363d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date :'])[1]/preceding::select[1]</value>
+      <webElementGuid>511b0a31-90d9-481d-a177-a9b5a83480b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print By'])[1]/preceding::select[1]</value>
+      <webElementGuid>195d89c5-8577-438b-bd28-cf79d2918daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/select</value>
+      <webElementGuid>7e133a46-7b5e-40cc-bfd0-14fc76c622e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'INFORMATION TECHNOLOGYINTERNAL PROCEDURE' or . = 'INFORMATION TECHNOLOGYINTERNAL PROCEDURE')]</value>
+      <webElementGuid>3ca7beca-2466-4205-a740-8fa62b5ac9c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

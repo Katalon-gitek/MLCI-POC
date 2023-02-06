@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Close page</name>
+   <tag></tag>
+   <elementGuidId>64d4c107-2c89-4c78-ac98-13303f02c17c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/nav/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.fa.fa-sign-out.pl-2.pr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>93fdbb08-19d8-455c-bb01-263408cabf21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>46192917-2e5a-4ed1-9e8a-c23afe71b099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>845fdb90-21d9-42b5-95d3-e106ad61eabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>efc69d52-90fa-4095-b013-7c1bb47e5277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>160b6371-f3a4-474d-8a9b-17e2793d311d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Logout / Close Page</value>
+      <webElementGuid>4e4b0e7a-021c-46d3-b02e-3db1d4dd863c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link fa fa-sign-out pl-2 pr-2</value>
+      <webElementGuid>769fe69f-fbd1-4548-a22a-3fc2910399e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close page
+						</value>
+      <webElementGuid>49f97726-391a-42ac-babd-d573df29329e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;topmenu&quot;]/div[@id=&quot;content&quot;]/nav[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;nav-menu list-unstyled d-flex flex-md-row align-items-md-center&quot;]/li[@class=&quot;nav-item pt-1 d-none d-md-block&quot;]/a[@class=&quot;nav-link fa fa-sign-out pl-2 pr-2&quot;]</value>
+      <webElementGuid>ad98c47e-21e8-4cec-bdb3-34e011e7048b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/nav/div/ul/li[2]/a</value>
+      <webElementGuid>7b36c8b4-7e57-4f77-9554-9125f3082a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Close page')]</value>
+      <webElementGuid>dad93ad0-4f8a-4f2e-a881-c772915bcb69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Build Time: 1/9/2022 14.47.01'])[1]/following::a[1]</value>
+      <webElementGuid>e0c8548d-8aec-48f2-9f56-c001cc5995f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DB: DB-DEV.mitsuilease.co.id\DocStorage_Stage'])[1]/following::a[1]</value>
+      <webElementGuid>aaa8950b-1ffc-4d81-9e89-5c687812e168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Goto Root Page'])[1]/preceding::a[3]</value>
+      <webElementGuid>c2e4af89-099b-40e3-b4b7-5fc7ef965cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Storage'])[2]/preceding::a[5]</value>
+      <webElementGuid>94ae5f17-6b24-48a0-a8d8-0b1071d90ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Close page']/parent::*</value>
+      <webElementGuid>3bcf5a89-65b4-492d-85ac-3164cf1b12e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>949167d1-0ae8-422d-8a15-f15791bd5ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>fe403000-bc15-4ab5-9fcb-23f277fdfab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @title = 'Logout / Close Page' and (text() = 'Close page
+						' or . = 'Close page
+						')]</value>
+      <webElementGuid>a3923a81-ae37-42bf-8538-9dd107c9d868</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
