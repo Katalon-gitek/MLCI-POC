@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View IM Restructuring</name>
+   <tag></tag>
+   <elementGuidId>1d312a13-a93d-4f88-ac89-8aeaf34aa5cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71874590-9b3f-464e-b3ae-f506fc4cc11a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>module_cam/view_restructuring.php?menu_id=3.5</value>
+      <webElementGuid>3d59a641-8e56-47b3-995e-2659303904d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>main1</value>
+      <webElementGuid>502cc3f8-790d-4ee6-aebb-e30ba27577f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View IM Restructuring</value>
+      <webElementGuid>b1e30fd1-aecf-44a7-ba1b-669e84ae2cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>3d3973ca-7e20-4ddf-b60e-9146076565e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li[2]/ul/li[2]/a</value>
+      <webElementGuid>e6a84ab4-1894-47af-b5b0-c65ae4bb5860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View IM Restructuring')]</value>
+      <webElementGuid>09f94322-1df7-4b17-bc98-6cc52639b0d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report of Rejected Restructuring Covid 19'])[1]/following::a[1]</value>
+      <webElementGuid>7e5a429e-69b7-4c61-b7be-bbdfec203bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation'])[1]/preceding::a[1]</value>
+      <webElementGuid>8485d70b-40a8-4d3d-8360-ccc5986a4eb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View IM Restructuring']/parent::*</value>
+      <webElementGuid>877ee443-ca60-40d6-bc03-31240e187985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'module_cam/view_restructuring.php?menu_id=3.5')]</value>
+      <webElementGuid>850fe0d1-54e0-4d07-ba99-0afb07799cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>2772a5aa-ee22-46ad-a4b4-6d99ed5872ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'module_cam/view_restructuring.php?menu_id=3.5' and (text() = 'View IM Restructuring' or . = 'View IM Restructuring')]</value>
+      <webElementGuid>0183a413-173b-4f5e-b110-cbc347d02ee7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

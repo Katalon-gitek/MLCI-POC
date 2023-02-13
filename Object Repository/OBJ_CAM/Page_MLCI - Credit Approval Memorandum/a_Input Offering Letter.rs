@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Input Offering Letter</name>
+   <tag></tag>
+   <elementGuidId>c29bde4a-3c63-47d3-84ed-238adea94a4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li[4]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fedb920c-b3fc-464b-973b-818a4a60135d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>module_offering/OfferingLetter.php?menu_id=5.1</value>
+      <webElementGuid>5ff32430-6c30-47a0-afd8-05a88bcd7ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>main1</value>
+      <webElementGuid>92ded505-e98b-4a9c-9580-d5262a5fd1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Input Offering Letter</value>
+      <webElementGuid>bb2a39de-886e-4d21-9c40-10be9003129f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>c2ffc1f2-f3ba-4029-8c83-6a52f3a200e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li[4]/ul/li/a</value>
+      <webElementGuid>2237d187-f885-4eb1-93ca-005716c09a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Input Offering Letter')]</value>
+      <webElementGuid>6534f6a5-f8f2-42f0-a2c3-915731cf2a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Reviewer Head Request'])[1]/following::a[1]</value>
+      <webElementGuid>c0a3e911-8c9a-42a7-ae3d-75b9f1a7a84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Input Offering Letter']/parent::*</value>
+      <webElementGuid>d9ec424f-1074-40e4-ac44-2b85149de44e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'module_offering/OfferingLetter.php?menu_id=5.1')]</value>
+      <webElementGuid>d60b3a7f-0586-4722-8e3a-eb72b8901753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li[4]/ul/li/a</value>
+      <webElementGuid>65dd75c4-2d23-4994-a466-edc9e6933538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'module_offering/OfferingLetter.php?menu_id=5.1' and (text() = 'Input Offering Letter' or . = 'Input Offering Letter')]</value>
+      <webElementGuid>279a1610-f292-43b0-a1a8-2bbe33005e89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Brand - Type</name>
+   <tag></tag>
+   <elementGuidId>d29351bd-1fd3-485e-9ac4-d5ae9ef06379</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li[5]/ul/li[3]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ca2eb0cd-d0a9-4bd0-b0dd-bb24b08484bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>module_other/brand_entry.php?menu_id=6.3.3</value>
+      <webElementGuid>07886121-e8f0-48e2-ad6a-64777605e052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>main1</value>
+      <webElementGuid>20b405e0-6002-4759-92e7-c299aeb3c0e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brand - Type</value>
+      <webElementGuid>a292595c-fd28-416e-a65a-4a37901a7121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>011fc3f3-7f4a-4a65-9135-dd48515ca721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li[5]/ul/li[3]/ul/li[3]/a</value>
+      <webElementGuid>f78024d2-4792-4d2e-b743-ab92f0e9fcaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Brand - Type')]</value>
+      <webElementGuid>b63031d8-0b16-4483-aea4-1575e0dc0d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karoseri'])[1]/following::a[1]</value>
+      <webElementGuid>7d8d60d9-abc5-490b-9e54-fb77c8de293f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/following::a[2]</value>
+      <webElementGuid>107cf147-72c9-4fea-9526-b2c81028770d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Brand'])[1]/preceding::a[1]</value>
+      <webElementGuid>3e46b414-fd3a-4f03-9339-d84ab16a1a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Model'])[1]/preceding::a[2]</value>
+      <webElementGuid>6ded9e85-3227-4736-a960-823b5ae5eb59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Brand - Type']/parent::*</value>
+      <webElementGuid>66628470-a5f0-4649-9ca9-646f42e0b642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'module_other/brand_entry.php?menu_id=6.3.3')]</value>
+      <webElementGuid>1c403cfe-c347-49c6-b469-0131ee771a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[3]/ul/li[3]/a</value>
+      <webElementGuid>2cf513cd-13cb-4b13-a708-5c2aa5a6d924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'module_other/brand_entry.php?menu_id=6.3.3' and (text() = 'Brand - Type' or . = 'Brand - Type')]</value>
+      <webElementGuid>501ee8b5-44fe-45ad-8541-dedc3eb3f486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

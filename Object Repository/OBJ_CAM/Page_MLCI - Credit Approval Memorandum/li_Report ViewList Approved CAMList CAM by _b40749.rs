@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Report ViewList Approved CAMList CAM by _b40749</name>
+   <tag></tag>
+   <elementGuidId>b63498fe-aa68-4d2a-8a31-73c204789471</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a0a5586f-ca2b-477a-ab0e-198e8e14cd84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submenu</value>
+      <webElementGuid>f4b39a61-d7da-48d8-b2c4-25c394d194b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report/ ViewList Approved CAMList CAM by Customer/ GroupList CAM by Approval DateList CAM by ApproverList CAM by Car`s ConditionList Approved by Dealer per Disbursement DateList of Approved Bank Account CAMList Rejected CAMSummary Approved CAMCigna Monitoring Outstanding Asuransi CignaLaporan Customer CignaCommission/Incentive Payment - CompanyHistory Commission/Incentive Payment - CompanyDetail Commission/Incentive Payment - CompanyCommission/Incentive Payment - IndividualHistory Commission/Incentive Payment - IndividualDetail Commission/Incentive Payment - IndividualIncentive to 3rd Party Monthly ReportHistory Incentive to 3rd Party Monthly ReportDetail Incentive to 3rd Party Monthly ReportOthersHistory PaymentAmortization ReportUndisburse Contract</value>
+      <webElementGuid>2041a566-5e22-493f-b347-1d5e7208f8ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]</value>
+      <webElementGuid>12f9300d-2749-4d0c-8ad6-fe094e285891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li/ul/li[3]</value>
+      <webElementGuid>61164989-80b8-4599-8d56-99e82b7afa16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected'])[1]/following::li[1]</value>
+      <webElementGuid>14f9e423-da09-458d-89ad-0389786374db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[2]/following::li[2]</value>
+      <webElementGuid>973633cd-f641-461b-82df-7b87467ac2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Report/ View']/parent::*</value>
+      <webElementGuid>3fc38932-59eb-4963-a046-381f5271bcbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li/ul/li[3]</value>
+      <webElementGuid>9090be68-5bfa-4de7-b0ac-006c1a4c99ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Report/ ViewList Approved CAMList CAM by Customer/ GroupList CAM by Approval DateList CAM by ApproverList CAM by Car`s ConditionList Approved by Dealer per Disbursement DateList of Approved Bank Account CAMList Rejected CAMSummary Approved CAMCigna Monitoring Outstanding Asuransi CignaLaporan Customer CignaCommission/Incentive Payment - CompanyHistory Commission/Incentive Payment - CompanyDetail Commission/Incentive Payment - CompanyCommission/Incentive Payment - IndividualHistory Commission/Incentive Payment - IndividualDetail Commission/Incentive Payment - IndividualIncentive to 3rd Party Monthly ReportHistory Incentive to 3rd Party Monthly ReportDetail Incentive to 3rd Party Monthly ReportOthersHistory PaymentAmortization ReportUndisburse Contract' or . = 'Report/ ViewList Approved CAMList CAM by Customer/ GroupList CAM by Approval DateList CAM by ApproverList CAM by Car`s ConditionList Approved by Dealer per Disbursement DateList of Approved Bank Account CAMList Rejected CAMSummary Approved CAMCigna Monitoring Outstanding Asuransi CignaLaporan Customer CignaCommission/Incentive Payment - CompanyHistory Commission/Incentive Payment - CompanyDetail Commission/Incentive Payment - CompanyCommission/Incentive Payment - IndividualHistory Commission/Incentive Payment - IndividualDetail Commission/Incentive Payment - IndividualIncentive to 3rd Party Monthly ReportHistory Incentive to 3rd Party Monthly ReportDetail Incentive to 3rd Party Monthly ReportOthersHistory PaymentAmortization ReportUndisburse Contract')]</value>
+      <webElementGuid>e8306408-d0ca-4ef9-9996-40248007d0e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

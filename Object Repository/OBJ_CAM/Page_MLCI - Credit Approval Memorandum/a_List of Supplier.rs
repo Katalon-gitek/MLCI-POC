@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_List of Supplier</name>
+   <tag></tag>
+   <elementGuidId>32fb96c8-7832-40ec-8797-aa27d8384d84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li[5]/ul/li[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>07f39ec4-f5cc-40df-89ed-b16b67a71c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>module_other/rpt_list_supplier.php?menu_id=6.2.3</value>
+      <webElementGuid>4250a64f-efdb-4675-acbf-aa3fef2cc25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>main1</value>
+      <webElementGuid>42fbf9ef-878c-4cb4-a3c1-371237c1199e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>List of Supplier</value>
+      <webElementGuid>c26820ab-1858-4563-b1fd-5704b61ff70f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>2ab81029-1371-419a-84fd-01eb3cfa06c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li[5]/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>8c854b1e-55ab-48d9-81fa-275735a5b632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'List of Supplier')]</value>
+      <webElementGuid>951d567d-40d9-4e09-a991-09888c9fddff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer'])[1]/following::a[1]</value>
+      <webElementGuid>0031e220-6976-48d0-bd89-14a1b7674db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Profile'])[1]/preceding::a[1]</value>
+      <webElementGuid>335c8b4c-1ace-4f37-8cf4-6b921696dc2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='List of Supplier']/parent::*</value>
+      <webElementGuid>5c2ae542-c829-4dc8-8762-f1c263b11b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'module_other/rpt_list_supplier.php?menu_id=6.2.3')]</value>
+      <webElementGuid>b363f68b-221f-4e9f-9416-160fa57b5990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>7787dc1d-e0a3-4abd-a510-607413198bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'module_other/rpt_list_supplier.php?menu_id=6.2.3' and (text() = 'List of Supplier' or . = 'List of Supplier')]</value>
+      <webElementGuid>edd867fe-6808-4418-baa5-c94f094c103d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

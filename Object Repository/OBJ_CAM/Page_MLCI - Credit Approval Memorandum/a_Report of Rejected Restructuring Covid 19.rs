@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Report of Rejected Restructuring Covid 19</name>
+   <tag></tag>
+   <elementGuidId>7a78ec6d-5066-4d09-ba5d-a93139c7114d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#treemenu2 > li.submenu > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>179e1f86-40d9-4342-ad3b-c8a559c86632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>module_cam/list_report.php?menu_id=3.4</value>
+      <webElementGuid>3b4bd77e-a353-4baa-b1c1-7dfbb65fa351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>main1</value>
+      <webElementGuid>05a2b242-623f-4904-9a2f-5a16c9392fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report of Rejected Restructuring Covid 19</value>
+      <webElementGuid>5450a320-72b0-4ee9-9c65-8001587fbeb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>7f798b0b-76d6-424f-ba66-ccf557d584be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li[2]/ul/li/a</value>
+      <webElementGuid>54cdf018-e111-464d-a024-2e5299329505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Report of Rejected Restructuring Covid 19')]</value>
+      <webElementGuid>5787efe1-cdc3-4b97-8a7e-2a06df14edf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undisburse Contract'])[1]/following::a[1]</value>
+      <webElementGuid>6ae0c467-b654-4944-a25a-40c7c1f791e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View IM Restructuring'])[1]/preceding::a[1]</value>
+      <webElementGuid>2219586e-0e0a-496d-918e-2fd0f92e832e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Report of Rejected Restructuring Covid 19']/parent::*</value>
+      <webElementGuid>86a06cfd-23fd-4f2c-a5b0-9524ac6d7d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'module_cam/list_report.php?menu_id=3.4')]</value>
+      <webElementGuid>d2954f7e-5db0-4574-a061-1df81264d144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li[2]/ul/li/a</value>
+      <webElementGuid>5aa93840-eb87-4f60-a2ac-25bfa76ca7e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'module_cam/list_report.php?menu_id=3.4' and (text() = 'Report of Rejected Restructuring Covid 19' or . = 'Report of Rejected Restructuring Covid 19')]</value>
+      <webElementGuid>bf028512-2d55-4430-a100-6b660e3db60e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

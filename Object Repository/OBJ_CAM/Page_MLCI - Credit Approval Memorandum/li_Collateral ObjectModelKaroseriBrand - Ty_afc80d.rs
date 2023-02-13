@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Collateral ObjectModelKaroseriBrand - Ty_afc80d</name>
+   <tag></tag>
+   <elementGuidId>d19ef05d-0b24-4a43-a0e7-b7aea688adce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li[5]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>de671d51-831d-44e1-b22e-a9e1d8ff9adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submenu</value>
+      <webElementGuid>ce407f09-4667-4284-8c27-a2a20aa6ca87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Collateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of Karoseri</value>
+      <webElementGuid>ab305185-052d-4112-baa8-e66d6dc4b785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]</value>
+      <webElementGuid>e8710362-d9d0-4ff5-a07f-bc3863de14fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li[5]/ul/li[3]</value>
+      <webElementGuid>1a30a0c6-b104-49f8-ab7f-d464c935883d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Profile'])[1]/following::li[1]</value>
+      <webElementGuid>13b096fc-cd0a-4ae0-b703-f6c153a868ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Supplier'])[1]/following::li[2]</value>
+      <webElementGuid>67136219-cf6b-461c-9d5e-f940d08b8bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Collateral Object']/parent::*</value>
+      <webElementGuid>cf7f407c-10c4-42dc-898b-263ef7160e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[3]</value>
+      <webElementGuid>f7312134-1557-498f-b18e-bf30b9113021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Collateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of Karoseri' or . = 'Collateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of Karoseri')]</value>
+      <webElementGuid>12c9f31b-9b8d-47dc-a366-5e98fd5c3435</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

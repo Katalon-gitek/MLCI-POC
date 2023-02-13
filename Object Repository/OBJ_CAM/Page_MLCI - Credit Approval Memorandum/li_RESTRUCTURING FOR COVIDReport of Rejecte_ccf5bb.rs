@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_RESTRUCTURING FOR COVIDReport of Rejecte_ccf5bb</name>
+   <tag></tag>
+   <elementGuidId>9c500694-deaa-4027-99eb-e2159894ce11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a65680e8-da9b-4faa-9c7e-84c3fab960c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submenu</value>
+      <webElementGuid>e586a2d1-93f3-4fad-8284-b1c126d264f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RESTRUCTURING FOR COVIDReport of Rejected Restructuring Covid 19View IM Restructuring</value>
+      <webElementGuid>f6ea52ed-7cef-4e2f-a0c2-61dd4e7ef4fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]</value>
+      <webElementGuid>8d285278-aa19-4942-b274-549911616600</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li[2]</value>
+      <webElementGuid>90a2ff92-8dba-42b9-b9c5-d87f8b04f15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undisburse Contract'])[1]/following::li[1]</value>
+      <webElementGuid>8b5bfeee-2b67-4306-9ff0-ebd661dcd929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amortization Report'])[1]/following::li[2]</value>
+      <webElementGuid>346ad369-d892-4b75-9267-9f404f0515f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RESTRUCTURING FOR COVID']/parent::*</value>
+      <webElementGuid>9e102b27-ab13-484a-83bc-e20e92d54bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li[2]</value>
+      <webElementGuid>892cdd2b-7d32-423d-92eb-872d0c7e7bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'RESTRUCTURING FOR COVIDReport of Rejected Restructuring Covid 19View IM Restructuring' or . = 'RESTRUCTURING FOR COVIDReport of Rejected Restructuring Covid 19View IM Restructuring')]</value>
+      <webElementGuid>e556b147-6acb-4550-8d37-a74d581456f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

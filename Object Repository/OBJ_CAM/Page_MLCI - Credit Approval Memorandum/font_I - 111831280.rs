@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_I - 111831280</name>
+   <tag></tag>
+   <elementGuidId>e90571b4-47e4-4390-8f38-e23cfa06ddd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='isipayment']/tr/td[2]/a/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>3a444ae9-fb05-4cf1-90bd-e685b42bba34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I - 111831280 </value>
+      <webElementGuid>c46f8dd6-b091-4a16-baa5-cdc562678694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;isipayment&quot;)/tr[1]/td[2]/a[1]/font[1]</value>
+      <webElementGuid>832ea3f1-5797-4878-9e78-47bc7224f7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
+      <webElementGuid>ed482171-1759-4e2c-9b37-218c3df5e4a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='isipayment']/tr/td[2]/a/font</value>
+      <webElementGuid>da16991e-46b8-464c-aaac-36078e5f7e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::font[1]</value>
+      <webElementGuid>54b1089d-78bc-491b-a2e5-39a6b18c912a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::font[1]</value>
+      <webElementGuid>41950eb7-7b45-4dec-a269-606833278b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMELIYAH JAYA PERKASA, PT.'])[1]/preceding::font[1]</value>
+      <webElementGuid>01e54173-e503-4574-a52f-9e935ae05c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ricky Indra'])[1]/preceding::font[1]</value>
+      <webElementGuid>8caffb28-e62f-4ab3-975d-c74f9c3d76df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font</value>
+      <webElementGuid>5ca06dcd-14d1-455f-822b-7a9b3f2b7752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'I - 111831280 ' or . = 'I - 111831280 ')]</value>
+      <webElementGuid>482fe5e1-b520-4423-894f-088f093c9800</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_APPROVER AVAILABILITYOperationBranch Man_e15654</name>
+   <tag></tag>
+   <elementGuidId>a6dbf147-582c-4c30-be42-2b28c67b4e21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>541a2497-fa73-449f-be9a-d982724b4bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submenu</value>
+      <webElementGuid>6117a95b-c24a-496f-b5d2-b6c24ca00174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPROVER AVAILABILITYOperationBranch ManagerCredit CommiteeCredit Reviewer RequestCredit Reviewer Head Request</value>
+      <webElementGuid>65e21637-56f4-496b-8feb-98a6a6ca83c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]</value>
+      <webElementGuid>b1b16220-3723-4d29-a36d-21524020e6c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li[3]</value>
+      <webElementGuid>75517f40-6bf5-4343-9e9f-addebadc0781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View IM Restructuring'])[1]/following::li[1]</value>
+      <webElementGuid>cbfbdda4-446d-4346-abf7-37d8781b1c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report of Rejected Restructuring Covid 19'])[1]/following::li[2]</value>
+      <webElementGuid>fde9ea84-75ad-4c21-82c9-16f390957686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='APPROVER AVAILABILITY']/parent::*</value>
+      <webElementGuid>2254b6b5-b167-4beb-82f6-ab58ce1cc276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li[3]</value>
+      <webElementGuid>25376f3c-346b-4502-a062-97618c5b56dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'APPROVER AVAILABILITYOperationBranch ManagerCredit CommiteeCredit Reviewer RequestCredit Reviewer Head Request' or . = 'APPROVER AVAILABILITYOperationBranch ManagerCredit CommiteeCredit Reviewer RequestCredit Reviewer Head Request')]</value>
+      <webElementGuid>8f22ce36-65bc-4791-9171-78c5cd21fffc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
