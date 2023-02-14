@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Operation</name>
    <tag></tag>
-   <elementGuidId>685872b3-91ec-4d49-a9f2-9d968bc50a5b</elementGuidId>
+   <elementGuidId>9ec0bf15-7f77-4cae-ba2f-838c89bcfe39</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b806ad69-9048-4272-ab7e-c1ec246766a2</webElementGuid>
+      <webElementGuid>86e55383-155c-4195-84bf-49b37eef7b93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>module_other/cr_avail.php?menu_id=4.1</value>
-      <webElementGuid>28af0e6c-d984-4bc4-be8b-8592e335960f</webElementGuid>
+      <webElementGuid>09e76542-3847-46a9-871c-8a831eba05dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>main1</value>
-      <webElementGuid>04160d62-5536-4f82-8f89-c022d6972e0b</webElementGuid>
+      <webElementGuid>92a20cc9-136f-4d8f-8dfe-7aed2cba5fbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Operation</value>
-      <webElementGuid>7883aaa4-6ecb-42ea-b3b6-eb7cb0b18fa6</webElementGuid>
+      <webElementGuid>ad98b0b8-3226-4623-a815-19fac708ded1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[1]/a[1]</value>
-      <webElementGuid>1c4cc86c-6ef0-47c5-a3a9-194c136d6f52</webElementGuid>
+      <webElementGuid>b20a4bb1-879f-46cf-aef3-89517198b200</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[3]/ul/li/a</value>
-      <webElementGuid>4dc39420-e22a-4e9b-a83b-efddfd63148f</webElementGuid>
+      <webElementGuid>2e8cd641-5076-4f9f-873f-cf84cb30f3c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Operation')]</value>
-      <webElementGuid>c5a72e6e-5ce7-4757-a6c0-4eaa9abcd823</webElementGuid>
+      <webElementGuid>d7dc2baa-abe5-431c-81b8-561854c008f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View IM Restructuring'])[1]/following::a[1]</value>
-      <webElementGuid>ca4e4479-f622-4550-bc73-2b857f1c38f6</webElementGuid>
+      <webElementGuid>2afa9ba0-2895-40c4-89dd-ad20507d890e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch Manager'])[1]/preceding::a[1]</value>
-      <webElementGuid>be29d0a6-0cd3-430c-9a07-17f3bae4e0fe</webElementGuid>
+      <webElementGuid>5dbb92da-5290-4a02-b089-0df356344305</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Commitee'])[1]/preceding::a[2]</value>
-      <webElementGuid>e955d90b-84c4-4907-b664-896abb9779b9</webElementGuid>
+      <webElementGuid>2bb1826d-b210-4310-8543-f5708397f54b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Operation']/parent::*</value>
-      <webElementGuid>ab05f832-dfc5-4ab3-b97f-c92c15e63054</webElementGuid>
+      <webElementGuid>21b5b1ee-ef8c-4766-ba40-4240bb662f58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'module_other/cr_avail.php?menu_id=4.1')]</value>
-      <webElementGuid>5501ab3a-b47d-4872-a085-ae966562b3db</webElementGuid>
+      <webElementGuid>983b1c6d-ee27-44fb-b719-0b430244f5e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/ul/li[3]/ul/li/a</value>
-      <webElementGuid>2b9a8aa5-b0ba-4552-b6f8-4fa2f6be9a4b</webElementGuid>
+      <webElementGuid>a7df94fa-3701-45c9-a39e-a03d860f574b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'module_other/cr_avail.php?menu_id=4.1' and (text() = 'Operation' or . = 'Operation')]</value>
-      <webElementGuid>8684060d-b6a0-427b-8bdf-9be757c15ea8</webElementGuid>
+      <webElementGuid>cf372383-2999-4472-bd47-481368875bef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

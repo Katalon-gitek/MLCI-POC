@@ -3,7 +3,7 @@
    <description></description>
    <name>a_List of Brand</name>
    <tag></tag>
-   <elementGuidId>94675bdf-e1f6-4358-aefb-09b42e250bb2</elementGuidId>
+   <elementGuidId>f9f3258b-8d9e-4eee-9606-1012eae080f4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>39dae93b-184a-4a36-a25a-029aae83db47</webElementGuid>
+      <webElementGuid>3bdb4be8-6c44-4a13-8998-2320684bfdf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>module_other/rpt_list_vehicle.php?menu_id=6.3.4</value>
-      <webElementGuid>0d0c587c-8d97-41da-8ab3-de67e922b2f6</webElementGuid>
+      <webElementGuid>6b8d19e1-c5db-40ef-8bfe-abe59cce8b9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>main1</value>
-      <webElementGuid>301c425b-ab47-4a3c-8b2a-42ba8dc15787</webElementGuid>
+      <webElementGuid>8c0dfe56-5cc5-4846-bd37-82c4c0a5cfba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>List of Brand</value>
-      <webElementGuid>492a133a-6c2a-44d6-bae2-8a6f0a54e4f6</webElementGuid>
+      <webElementGuid>8503da6d-af7f-41ab-8ecb-3e8a62656186</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[4]/a[1]</value>
-      <webElementGuid>f90495ea-7c0d-4dcf-903e-68e1ce74ecab</webElementGuid>
+      <webElementGuid>c5eef04b-9015-482c-b584-44ae4f0f3f7d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[5]/ul/li[3]/ul/li[4]/a</value>
-      <webElementGuid>15631afd-cd9c-4da5-b7ad-c08a3e69ce94</webElementGuid>
+      <webElementGuid>d92cf3fe-9077-4405-a29f-5b2932509109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'List of Brand')]</value>
-      <webElementGuid>af14294f-ee64-4075-9198-4a7b17e63d9b</webElementGuid>
+      <webElementGuid>a9b10b3f-cf7d-451f-9f03-32aabce4df4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand - Type'])[1]/following::a[1]</value>
-      <webElementGuid>18e3d2e9-42b5-41fa-8f02-5c734552fc11</webElementGuid>
+      <webElementGuid>3f9f0d74-aaad-4bca-9c3c-d205d9d00716</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Karoseri'])[1]/following::a[2]</value>
-      <webElementGuid>b65a6071-ff58-4cdf-a22e-7bd03e31be58</webElementGuid>
+      <webElementGuid>769f9c93-a3a3-4395-97a4-d5ebcb3fc36f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Model'])[1]/preceding::a[1]</value>
-      <webElementGuid>56010b0a-2068-4f2b-bad1-e2488b256dcd</webElementGuid>
+      <webElementGuid>ba70fbeb-25f9-448b-b2a4-3111937250ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Karoseri'])[1]/preceding::a[2]</value>
-      <webElementGuid>70321cbe-5fd5-4161-8df7-10953652193d</webElementGuid>
+      <webElementGuid>99f2abc2-b193-46bf-8479-e89e6dd5cedc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='List of Brand']/parent::*</value>
-      <webElementGuid>18e05fe8-2add-45c9-8457-7c3ed31456c6</webElementGuid>
+      <webElementGuid>c286cb50-ea05-4566-8461-6d800ab6d83e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'module_other/rpt_list_vehicle.php?menu_id=6.3.4')]</value>
-      <webElementGuid>67845ecb-04d8-4d10-9638-3ea828817aba</webElementGuid>
+      <webElementGuid>2ea0696d-e400-49e5-89df-f80c604f1687</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[3]/ul/li[4]/a</value>
-      <webElementGuid>87f9347e-348f-483a-9c13-cc501fe6c439</webElementGuid>
+      <webElementGuid>5ad08afc-2657-4cfc-9f38-5c20cdd8318e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'module_other/rpt_list_vehicle.php?menu_id=6.3.4' and (text() = 'List of Brand' or . = 'List of Brand')]</value>
-      <webElementGuid>aa9d39f8-881e-4688-8f27-e1964ca3a822</webElementGuid>
+      <webElementGuid>ef377aeb-98cd-4b48-a767-97cc9d96b24e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

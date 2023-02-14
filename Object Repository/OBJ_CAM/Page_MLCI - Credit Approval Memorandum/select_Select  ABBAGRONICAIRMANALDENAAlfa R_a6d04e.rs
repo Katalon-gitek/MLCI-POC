@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Select  ABBAGRONICAIRMANALDENAAlfa R_a6d04e</name>
    <tag></tag>
-   <elementGuidId>22de3a1a-c466-4150-8620-6f26410c9a76</elementGuidId>
+   <elementGuidId>ba097341-fc62-4689-82f3-4a4e248b7291</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>548cf3b6-94a7-4cb9-b33d-0f0013fb6688</webElementGuid>
+      <webElementGuid>b9189194-1763-44d6-bde4-3b7cc5b2de72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>brand</value>
-      <webElementGuid>d7605450-c1bc-472a-a736-d09f945d916f</webElementGuid>
+      <webElementGuid>ba39f709-7432-45c7-a0a7-f4f5b23ab5a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>brand</value>
-      <webElementGuid>c96b80db-2c98-4cf8-8139-c08d5a9a6e2b</webElementGuid>
+      <webElementGuid>c7fd26c0-f127-422d-9336-ac8cda4003c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
   Select
   ABBAGRONICAIRMANALDENAAlfa RomeoAMPANFOAston MartinATLAS COPCOAudiBBABEKISTINGBELKINBELLBentleyBimantaraBMWBOBCATBOMAGBOWENBTCadillacCANONCARRIERCASECATERPILLARCheryChevroletChryslerCIMCIPTA CITRA BIKACISCOCitroenCLIVETCLUB CARCOMBITOOLContainerCUMMINSCYDDaewoDaihatsuDaimlerDatsunDEXINGDFSKDHPDIAFDINGLIDodgeDOOSANDRAGFLOWDYBSISEFFERENERPACEVSF5 Network IncFDSPFerrariFiatFordFotonFURUKAWAFUSHUNFUWAGDGeelyGemalaGENIEGMCGROVEGUANGZOU DONGSU PETROLEUM DZEHAMMHANG CHAHANTAHarley DavidsonHARTECHHAULOTTEHeliHIABHinoHITACHIHITACHI SUMITOMOHOISTHondaHPHPEHummerHYSTERHyundaiIBMIHI KATOINDOCELL PRIMAInfinitiINGERSOLL RANDINOVEXINTERIOR FIT OUTIRDIsuzuIVECOJaguarJCBJeepJETJLGJOHN DEEREJOSTJUMBOKAI MEIKATOKIAKOBELCOKOMATSUKONEKONECRANEKRAUSS MAFEIKTMKUBOTA MINIKWIET POWERLamborghiniLand RoverLEMOLENOVOLexusLGLIEBHERRLIGHTSKYLINDELIUGONGLotusM-ITECHMABMACHINERYMackMANManitouMaseratiMazdaMcLarenmctMDSMercedes BenzMFMILLERMinicooperMitsubishiMORI SEIKIMorrisMorris GarageMULTIFLONECNEWLASTNEXWAVENFLGNHLNICHIYUNissanNOVA FRINGOOpelPACKSYS GLOBALPATRIAPERKINSPeugeotPorschePOTAINProtonRange RoverRAYMONDRenaultROHDE &amp; SCHWARZRolls RoyceRONGLI JIXIESaabSAKAISamsungSANDVIKSANY PALFINGERScaniaSCOMI OIL TOOLSSHACMANSHEN YANGSHINDAIWASICHUAN HONGHUASJ PETROSkodaSmartSsangyongSSBSTILLSubaruSUMITOMOSuzukiSYESTADANOTATATCMTEREX     TEREX FINLAYTEREX FRANNATeslaTimorTire Roller SAKAI TS205TOROToyotaTRIATRATRIOLIETTWIN TURRETUD NissanUD TRUCKSUNICVARCOVolks WagenVolvoWESTCOWeststarWPWranglerWulingX-RITEXCMGXJYALEYAMAHAYANMARZeleZOOMLIONZTE</value>
-      <webElementGuid>ea5a4741-4555-4b53-bbd0-d9581365ed7a</webElementGuid>
+      <webElementGuid>89a61a37-23c1-44d1-b5b4-f3cf7d112d37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brand&quot;)</value>
-      <webElementGuid>d41ae8d0-3282-49f3-95b6-c4d98d10a4d0</webElementGuid>
+      <webElementGuid>c73a0575-de3a-4214-97a4-0fd5c661ab9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>ebc86d87-df43-41ad-946a-89f513be7469</webElementGuid>
+      <webElementGuid>28302a21-c691-4e6b-863c-4db6d34d2d90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='brand']</value>
-      <webElementGuid>705bb1a1-2480-409b-82d0-73ca684fbb69</webElementGuid>
+      <webElementGuid>2d128987-21fe-44cc-9ea5-826f4df7abba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::select[1]</value>
-      <webElementGuid>19164f1c-7e13-407d-bdf9-c61a8a41b727</webElementGuid>
+      <webElementGuid>531d7995-e0da-4721-8e91-fb576cfd6c1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Brand'])[1]/following::select[1]</value>
-      <webElementGuid>c9979dfb-e694-45b6-bb1e-b4f5b120074e</webElementGuid>
+      <webElementGuid>959dabcd-b44c-4843-90c3-61a731af5a42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/preceding::select[1]</value>
-      <webElementGuid>31c727b2-0eb1-4622-8993-3d88713d2dd0</webElementGuid>
+      <webElementGuid>801fc72b-cd92-4686-9202-f0cffeeb96eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[1]/preceding::select[2]</value>
-      <webElementGuid>eba195a6-86aa-4a38-ba33-fca51e091bbe</webElementGuid>
+      <webElementGuid>4e197658-c84e-433f-987a-f6c60e692f7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>b5987033-2e77-40b3-ae60-75d76fa27c62</webElementGuid>
+      <webElementGuid>ba52f2b8-2ab4-42e8-86e7-c224b8cad48e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +124,6 @@
   ABBAGRONICAIRMANALDENAAlfa RomeoAMPANFOAston MartinATLAS COPCOAudiBBABEKISTINGBELKINBELLBentleyBimantaraBMWBOBCATBOMAGBOWENBTCadillacCANONCARRIERCASECATERPILLARCheryChevroletChryslerCIMCIPTA CITRA BIKACISCOCitroenCLIVETCLUB CARCOMBITOOLContainerCUMMINSCYDDaewoDaihatsuDaimlerDatsunDEXINGDFSKDHPDIAFDINGLIDodgeDOOSANDRAGFLOWDYBSISEFFERENERPACEVSF5 Network IncFDSPFerrariFiatFordFotonFURUKAWAFUSHUNFUWAGDGeelyGemalaGENIEGMCGROVEGUANGZOU DONGSU PETROLEUM DZEHAMMHANG CHAHANTAHarley DavidsonHARTECHHAULOTTEHeliHIABHinoHITACHIHITACHI SUMITOMOHOISTHondaHPHPEHummerHYSTERHyundaiIBMIHI KATOINDOCELL PRIMAInfinitiINGERSOLL RANDINOVEXINTERIOR FIT OUTIRDIsuzuIVECOJaguarJCBJeepJETJLGJOHN DEEREJOSTJUMBOKAI MEIKATOKIAKOBELCOKOMATSUKONEKONECRANEKRAUSS MAFEIKTMKUBOTA MINIKWIET POWERLamborghiniLand RoverLEMOLENOVOLexusLGLIEBHERRLIGHTSKYLINDELIUGONGLotusM-ITECHMABMACHINERYMackMANManitouMaseratiMazdaMcLarenmctMDSMercedes BenzMFMILLERMinicooperMitsubishiMORI SEIKIMorrisMorris GarageMULTIFLONECNEWLASTNEXWAVENFLGNHLNICHIYUNissanNOVA FRINGOOpelPACKSYS GLOBALPATRIAPERKINSPeugeotPorschePOTAINProtonRange RoverRAYMONDRenaultROHDE &amp; SCHWARZRolls RoyceRONGLI JIXIESaabSAKAISamsungSANDVIKSANY PALFINGERScaniaSCOMI OIL TOOLSSHACMANSHEN YANGSHINDAIWASICHUAN HONGHUASJ PETROSkodaSmartSsangyongSSBSTILLSubaruSUMITOMOSuzukiSYESTADANOTATATCMTEREX     TEREX FINLAYTEREX FRANNATeslaTimorTire Roller SAKAI TS205TOROToyotaTRIATRATRIOLIETTWIN TURRETUD NissanUD TRUCKSUNICVARCOVolks WagenVolvoWESTCOWeststarWPWranglerWulingX-RITEXCMGXJYALEYAMAHAYANMARZeleZOOMLIONZTE' or . = '
   Select
   ABBAGRONICAIRMANALDENAAlfa RomeoAMPANFOAston MartinATLAS COPCOAudiBBABEKISTINGBELKINBELLBentleyBimantaraBMWBOBCATBOMAGBOWENBTCadillacCANONCARRIERCASECATERPILLARCheryChevroletChryslerCIMCIPTA CITRA BIKACISCOCitroenCLIVETCLUB CARCOMBITOOLContainerCUMMINSCYDDaewoDaihatsuDaimlerDatsunDEXINGDFSKDHPDIAFDINGLIDodgeDOOSANDRAGFLOWDYBSISEFFERENERPACEVSF5 Network IncFDSPFerrariFiatFordFotonFURUKAWAFUSHUNFUWAGDGeelyGemalaGENIEGMCGROVEGUANGZOU DONGSU PETROLEUM DZEHAMMHANG CHAHANTAHarley DavidsonHARTECHHAULOTTEHeliHIABHinoHITACHIHITACHI SUMITOMOHOISTHondaHPHPEHummerHYSTERHyundaiIBMIHI KATOINDOCELL PRIMAInfinitiINGERSOLL RANDINOVEXINTERIOR FIT OUTIRDIsuzuIVECOJaguarJCBJeepJETJLGJOHN DEEREJOSTJUMBOKAI MEIKATOKIAKOBELCOKOMATSUKONEKONECRANEKRAUSS MAFEIKTMKUBOTA MINIKWIET POWERLamborghiniLand RoverLEMOLENOVOLexusLGLIEBHERRLIGHTSKYLINDELIUGONGLotusM-ITECHMABMACHINERYMackMANManitouMaseratiMazdaMcLarenmctMDSMercedes BenzMFMILLERMinicooperMitsubishiMORI SEIKIMorrisMorris GarageMULTIFLONECNEWLASTNEXWAVENFLGNHLNICHIYUNissanNOVA FRINGOOpelPACKSYS GLOBALPATRIAPERKINSPeugeotPorschePOTAINProtonRange RoverRAYMONDRenaultROHDE &amp; SCHWARZRolls RoyceRONGLI JIXIESaabSAKAISamsungSANDVIKSANY PALFINGERScaniaSCOMI OIL TOOLSSHACMANSHEN YANGSHINDAIWASICHUAN HONGHUASJ PETROSkodaSmartSsangyongSSBSTILLSubaruSUMITOMOSuzukiSYESTADANOTATATCMTEREX     TEREX FINLAYTEREX FRANNATeslaTimorTire Roller SAKAI TS205TOROToyotaTRIATRATRIOLIETTWIN TURRETUD NissanUD TRUCKSUNICVARCOVolks WagenVolvoWESTCOWeststarWPWranglerWulingX-RITEXCMGXJYALEYAMAHAYANMARZeleZOOMLIONZTE')]</value>
-      <webElementGuid>838335c3-2ef0-47b0-bbac-0a58d37533a6</webElementGuid>
+      <webElementGuid>6d0d4d69-16b9-48a8-b7db-28e304a2a920</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

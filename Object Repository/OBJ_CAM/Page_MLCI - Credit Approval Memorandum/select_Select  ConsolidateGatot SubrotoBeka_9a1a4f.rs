@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Select  ConsolidateGatot SubrotoBeka_9a1a4f</name>
    <tag></tag>
-   <elementGuidId>597d4eea-0b0e-4dcb-b7fb-14ceb47780a0</elementGuidId>
+   <elementGuidId>e54ba44e-1226-48a3-b73b-878ef948d947</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>7bc52d8a-5d7e-4e9d-a0df-531c802f72b5</webElementGuid>
+      <webElementGuid>25e59422-fff4-4b35-ab43-7ab174089b1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>branch_cd</value>
-      <webElementGuid>63f15ea8-0f1f-49bd-9ecf-145809a2f190</webElementGuid>
+      <webElementGuid>dce647fe-f596-4788-a679-7382fa0ddf4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>branch_cd</value>
-      <webElementGuid>2576c4e5-fd32-480d-b314-534480b1136d</webElementGuid>
+      <webElementGuid>3cc3124d-5634-48e4-b021-0b895271ccc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
   Select
   ConsolidateGatot SubrotoBekasiSemarangSurabayaBandungYogyakartaMedanPalembangDenpasarBalikpapan</value>
-      <webElementGuid>bb031d1c-2897-4e6b-aaef-cc705a46a51d</webElementGuid>
+      <webElementGuid>bae28280-39de-40cb-a7bb-662fd8a64f58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;branch_cd&quot;)</value>
-      <webElementGuid>6f9f6c3b-e3e2-4daa-b0b3-f8ba730704e8</webElementGuid>
+      <webElementGuid>d686f878-b9bd-4705-bf76-5b9b16258ed6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>1b6f2dcb-d2b9-4093-86e5-db199af2ed77</webElementGuid>
+      <webElementGuid>6da8654e-0858-4b9c-9f92-1f4c067fbb23</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='branch_cd']</value>
-      <webElementGuid>1939fbac-cfb0-4de9-906a-0a58dde06fdf</webElementGuid>
+      <webElementGuid>0899a3ee-736c-4e27-a579-70ba1f12fc69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::select[1]</value>
-      <webElementGuid>f130912d-9066-4285-96b4-393f9d04b6c0</webElementGuid>
+      <webElementGuid>b0c653d9-f97d-4edd-9264-c50ac3f68f47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Sales'])[1]/following::select[1]</value>
-      <webElementGuid>8e7ace04-9043-47ae-8be7-4efa80698e8b</webElementGuid>
+      <webElementGuid>2f359b64-c61d-471c-9b71-97e4405a76fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[1]/preceding::select[1]</value>
-      <webElementGuid>0f026429-bdbc-4975-9686-a9e76aaa44f5</webElementGuid>
+      <webElementGuid>420fb50c-a684-4017-b07d-b1fb2d005d4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales No.'])[1]/preceding::select[1]</value>
-      <webElementGuid>f32b63a5-2a7c-48e1-93df-ac96c7d61762</webElementGuid>
+      <webElementGuid>29f553a9-6c21-4458-bec0-bc302d5aef75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>d805fae9-0fce-4be5-a2a9-b36cdec4185c</webElementGuid>
+      <webElementGuid>d5d515b2-7fa2-4431-84ee-cdffe336718d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +124,6 @@
   ConsolidateGatot SubrotoBekasiSemarangSurabayaBandungYogyakartaMedanPalembangDenpasarBalikpapan' or . = '
   Select
   ConsolidateGatot SubrotoBekasiSemarangSurabayaBandungYogyakartaMedanPalembangDenpasarBalikpapan')]</value>
-      <webElementGuid>26a79259-a0fc-4be4-a1fe-f3f206474cf7</webElementGuid>
+      <webElementGuid>508563b7-fa89-48e6-86e6-5f8168c6e516</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

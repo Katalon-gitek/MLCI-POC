@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Dealer Profile</name>
    <tag></tag>
-   <elementGuidId>edad1c8e-f58f-49d3-bb66-b3611561c965</elementGuidId>
+   <elementGuidId>80eef4b2-96d8-4917-825a-9e66023fc7ad</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e7797bf5-6164-4941-a693-0a71e05d45c6</webElementGuid>
+      <webElementGuid>9f704194-6261-4943-89c9-b262067c88d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>module_other/rpt_dealer_profile.php?menu_id=6.2.4</value>
-      <webElementGuid>29185369-78ed-4371-935c-f4c9488e4a97</webElementGuid>
+      <webElementGuid>35ce22f2-d8ed-48c6-b9af-90bb6d2fd0d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>main1</value>
-      <webElementGuid>58657067-897d-44cb-8501-b37e9f44dcd4</webElementGuid>
+      <webElementGuid>75220251-80f7-4a46-b7d8-c2daffbc44d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dealer Profile</value>
-      <webElementGuid>f82e60d6-0afb-405f-b9bf-97d91491cf27</webElementGuid>
+      <webElementGuid>f1986d25-f557-4e86-80fe-d24ca3e777fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[3]/a[1]</value>
-      <webElementGuid>bb6f981f-0fc0-4bc9-887f-6098304c3305</webElementGuid>
+      <webElementGuid>7c839bbf-d20c-4b44-8315-c3a87ff42e3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[5]/ul/li[2]/ul/li[3]/a</value>
-      <webElementGuid>b29e463b-f6a1-4742-86df-a201f734c6cb</webElementGuid>
+      <webElementGuid>8ddc9e15-03e8-4c2e-9b0f-15613a76fa6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Dealer Profile')]</value>
-      <webElementGuid>00744f2b-de1d-4135-9773-2af55441dede</webElementGuid>
+      <webElementGuid>d8a2a74d-cdc8-45d6-ad0e-57dd245826e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Supplier'])[1]/following::a[1]</value>
-      <webElementGuid>ab26918f-ecb9-4152-bff8-a8c48d3d1a39</webElementGuid>
+      <webElementGuid>11bb9150-23d2-4230-8aac-699bc0d8d562</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer'])[1]/following::a[2]</value>
-      <webElementGuid>ac6dc4b8-0324-46ac-927e-098dbd1d9a48</webElementGuid>
+      <webElementGuid>4cb0a872-8382-4f25-9962-795fcd799190</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/preceding::a[1]</value>
-      <webElementGuid>bc1f604d-342a-4c8d-89a5-a2a0e48c0291</webElementGuid>
+      <webElementGuid>10a79363-112a-4de8-8c91-2c55e52a4f87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Dealer Profile']/parent::*</value>
-      <webElementGuid>74027e5e-af28-488c-9ab7-08380bda9988</webElementGuid>
+      <webElementGuid>fd5a2e87-664d-4302-bc84-7c2b6b100ca2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'module_other/rpt_dealer_profile.php?menu_id=6.2.4')]</value>
-      <webElementGuid>792eda74-17cc-451d-9f98-5b80d3abd7df</webElementGuid>
+      <webElementGuid>29f67145-9227-4d6c-aa57-ff6fde2940c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[2]/ul/li[3]/a</value>
-      <webElementGuid>48412e23-0192-495e-8adb-9527477d5c6f</webElementGuid>
+      <webElementGuid>13d3bc8c-f7c8-4925-8dfa-91cbc2cf4dd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'module_other/rpt_dealer_profile.php?menu_id=6.2.4' and (text() = 'Dealer Profile' or . = 'Dealer Profile')]</value>
-      <webElementGuid>60ede9a5-978e-43a4-a66f-fd1248711131</webElementGuid>
+      <webElementGuid>40cb82ac-fc32-4764-880c-1306c37b644e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

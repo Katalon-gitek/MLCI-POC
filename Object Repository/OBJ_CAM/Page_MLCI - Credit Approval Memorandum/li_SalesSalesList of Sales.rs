@@ -3,7 +3,7 @@
    <description></description>
    <name>li_SalesSalesList of Sales</name>
    <tag></tag>
-   <elementGuidId>f50cf08b-ba7c-42a2-9e8b-f13d77c6c59f</elementGuidId>
+   <elementGuidId>20292ab8-2e5c-4df4-b672-e9b992e7dc94</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>7b8dbecf-def6-45d3-bba9-518944c721de</webElementGuid>
+      <webElementGuid>279f98e0-6e79-41b9-97e1-765164b8d5dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>submenu</value>
-      <webElementGuid>a4693160-626b-404b-9b21-950a99a98b0f</webElementGuid>
+      <webElementGuid>1f43fe02-65b8-450d-9b1b-7d146d56688c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SalesSalesList of Sales</value>
-      <webElementGuid>b50734ed-15fb-409c-98e7-35ce1e605483</webElementGuid>
+      <webElementGuid>638ec23d-f129-4dc1-903a-1808d5c0055e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]</value>
-      <webElementGuid>e0754099-c32c-4e17-ad9a-90a30b47be30</webElementGuid>
+      <webElementGuid>8a08bbe0-1e51-4d72-8ebe-aa1f25e830cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[5]/ul/li</value>
-      <webElementGuid>7bbf7b5d-d1e9-4d6c-b1b9-7a6c3170aeb0</webElementGuid>
+      <webElementGuid>c7cf48aa-b8be-4b30-9aa8-a4c0586a0594</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Offering Letter'])[1]/following::li[2]</value>
-      <webElementGuid>244410f4-1ccc-4251-beb4-567a41438c94</webElementGuid>
+      <webElementGuid>bb9bafaa-afdb-43ac-9e35-cb388baf86f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sales']/parent::*</value>
-      <webElementGuid>da6584b6-6173-40c1-86fb-03328ecad948</webElementGuid>
+      <webElementGuid>efb9f591-3704-4c65-81dc-1c03203df783</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/ul/li[5]/ul/li</value>
-      <webElementGuid>b65aa460-7c94-450b-b0cd-368f436d680e</webElementGuid>
+      <webElementGuid>006dc1a7-3bec-4eb9-8124-45202bbd7de4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'SalesSalesList of Sales' or . = 'SalesSalesList of Sales')]</value>
-      <webElementGuid>36720dad-09b5-4c34-95db-0918b397957c</webElementGuid>
+      <webElementGuid>4daf2173-1e2d-4bec-9fac-b0cbeea72270</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

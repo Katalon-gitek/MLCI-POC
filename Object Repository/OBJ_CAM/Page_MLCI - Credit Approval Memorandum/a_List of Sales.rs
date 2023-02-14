@@ -3,7 +3,7 @@
    <description></description>
    <name>a_List of Sales</name>
    <tag></tag>
-   <elementGuidId>47a33531-0c3b-44cc-9353-92d4ecb2a773</elementGuidId>
+   <elementGuidId>79a4fcc8-faa6-47c3-a84d-68f5341dd39f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>85749d84-122e-429b-96b5-6ff49293fbb1</webElementGuid>
+      <webElementGuid>a9295007-2888-4d35-b64a-868cfdd63f25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>module_other/rpt_list_sales.php?menu_id=6.1.2</value>
-      <webElementGuid>1cc1308b-2718-4d43-83d4-df00a763e271</webElementGuid>
+      <webElementGuid>d3cdc628-c449-4009-806e-6dee6ae2de2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>main1</value>
-      <webElementGuid>2e2e7d89-c6cb-4dd4-9d18-0accce3ec1b9</webElementGuid>
+      <webElementGuid>b2659e3a-bd36-46da-82bc-767d06598ebd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>List of Sales</value>
-      <webElementGuid>320a27b0-da0c-4f48-9d9c-d15083f0f48c</webElementGuid>
+      <webElementGuid>38381445-60f6-4f58-8f99-0f3b63d9c9dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[2]/a[1]</value>
-      <webElementGuid>14ca60e8-b33d-4f06-bf16-0b97bb262d46</webElementGuid>
+      <webElementGuid>a0d697b3-2b06-404b-88df-3c5f21c85b0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[5]/ul/li/ul/li[2]/a</value>
-      <webElementGuid>1eb3de83-a0ab-4078-a3d7-d51afd0c634b</webElementGuid>
+      <webElementGuid>d92b7dff-37cc-4206-baf6-fb13dd37560b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'List of Sales')]</value>
-      <webElementGuid>0d755a44-892d-4bf9-bb0d-900571c0c675</webElementGuid>
+      <webElementGuid>71b108f6-9198-44da-8700-2e7a62bf60ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[1]/following::a[1]</value>
-      <webElementGuid>2542b34e-6935-4c5a-bbeb-806523cbec3c</webElementGuid>
+      <webElementGuid>bfe75f1d-3e3a-4e65-9867-6e5de45cda20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer'])[1]/preceding::a[1]</value>
-      <webElementGuid>19e49310-6e1a-4e6e-82ff-83538e2c68ca</webElementGuid>
+      <webElementGuid>090ca9ef-265a-47e8-a478-c2cb72217084</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='List of Sales']/parent::*</value>
-      <webElementGuid>757e9f85-2eef-4c62-bf92-98bdf57b8638</webElementGuid>
+      <webElementGuid>9af9326c-eb6c-41e6-a12b-efbaa12520d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'module_other/rpt_list_sales.php?menu_id=6.1.2')]</value>
-      <webElementGuid>fa0746be-def3-4964-b0bd-e1bc0da4c0c5</webElementGuid>
+      <webElementGuid>7944e70b-a834-421e-a7cf-62a02253b377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li/ul/li[2]/a</value>
-      <webElementGuid>d30f02b9-112e-44c9-ab76-08028849bc60</webElementGuid>
+      <webElementGuid>2455bdaf-7bc1-4b91-b730-af2b05da566b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'module_other/rpt_list_sales.php?menu_id=6.1.2' and (text() = 'List of Sales' or . = 'List of Sales')]</value>
-      <webElementGuid>4a3e3d7b-90ad-4f52-b4cf-293dd6085522</webElementGuid>
+      <webElementGuid>b6f9ada4-b9b7-4fd3-929f-e9c74534be0c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

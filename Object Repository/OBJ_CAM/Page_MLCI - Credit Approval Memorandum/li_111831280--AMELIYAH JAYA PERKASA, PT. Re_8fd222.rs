@@ -3,15 +3,15 @@
    <description></description>
    <name>li_111831280--AMELIYAH JAYA PERKASA, PT. Re_8fd222</name>
    <tag></tag>
-   <elementGuidId>6538dca3-6df4-4d1d-9382-7be8f371150b</elementGuidId>
+   <elementGuidId>3bf01297-6178-4579-ab2e-9191d319c1f6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ui-id-176</value>
+         <value>#ui-id-379</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='ui-id-176']</value>
+         <value>//li[@id='ui-id-379']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>afedc984-afc5-436d-991f-bab9390b4515</webElementGuid>
+      <webElementGuid>19650cbc-84f7-4bc8-abc5-5908a495c82b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-menu-item ui-state-focus</value>
-      <webElementGuid>84bacb1d-97d4-4040-9520-810f4d645b3c</webElementGuid>
+      <webElementGuid>737a6a3e-af7c-457e-96ef-00b48ed8540c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ui-id-176</value>
-      <webElementGuid>b5837560-bc32-4215-9e17-e486305fa707</webElementGuid>
+      <value>ui-id-379</value>
+      <webElementGuid>f5f71da5-05d5-49e1-8f20-6bc71b7fecdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>b3b0944a-981c-4b4b-901e-1922616ce987</webElementGuid>
+      <webElementGuid>4f5ba4df-85d5-4ca2-ba80-0ce428cf78f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>text</name>
       <type>Main</type>
       <value>111831280--AMELIYAH JAYA PERKASA, PT. Restructuring ke:1</value>
-      <webElementGuid>a52c496e-1904-4297-a78e-f756baa817af</webElementGuid>
+      <webElementGuid>1b315113-f397-4234-aa5d-5c7aa3edd3e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ui-id-176&quot;)</value>
-      <webElementGuid>7cfe9050-4303-4fd3-8a08-78cba55d84bd</webElementGuid>
+      <value>id(&quot;ui-id-379&quot;)</value>
+      <webElementGuid>60b72902-b0f4-487b-9976-e86c3be827d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,15 +70,15 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>2dec54c4-b69d-4034-a73e-d39c015bd90b</webElementGuid>
+      <webElementGuid>5aa368b1-783e-4177-a8a6-fd074b1a9038</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='ui-id-176']</value>
-      <webElementGuid>07c119cd-82e7-4d65-adfd-ae320d16f102</webElementGuid>
+      <value>//li[@id='ui-id-379']</value>
+      <webElementGuid>98f7bc63-4488-44f4-8d1e-018d45740521</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='ui-id-1']/li</value>
-      <webElementGuid>7f925a5d-44fb-47b5-bc55-40bca27fbd3a</webElementGuid>
+      <webElementGuid>e97bdeeb-3153-4620-af86-994bf207d013</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::li[1]</value>
-      <webElementGuid>d17d2495-4ed3-4b10-9187-70cdb7897f8b</webElementGuid>
+      <webElementGuid>3b5758e6-f7c4-40a3-b911-08abf04aa413</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,15 +102,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::li[1]</value>
-      <webElementGuid>7c39dd3f-41f5-429f-a442-81662353a050</webElementGuid>
+      <webElementGuid>446c2da2-19c7-4b35-bc10-25bb31b5d6c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ui-id-176', '&quot;', ')')])[1]/preceding::li[2]</value>
-      <webElementGuid>3f99917b-aaf3-40ef-973d-4ff2c5084ebe</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ui-id-379', '&quot;', ')')])[1]/preceding::li[2]</value>
+      <webElementGuid>1f317054-a625-4de7-813d-4fcff815ed24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='111831280--AMELIYAH JAYA PERKASA, PT. Restructuring ke:1']/parent::*</value>
-      <webElementGuid>6037e660-ce45-4c56-9787-98b78a2f0c74</webElementGuid>
+      <webElementGuid>084e03f6-b443-4920-b5d6-28b901987e22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,14 +126,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>f21101c5-3165-407a-bed1-b055d63f3e49</webElementGuid>
+      <webElementGuid>7bdf694c-7e5a-445f-827b-fa26c7de68aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[@id = 'ui-id-176' and (text() = '111831280--AMELIYAH JAYA PERKASA, PT. Restructuring ke:1' or . = '111831280--AMELIYAH JAYA PERKASA, PT. Restructuring ke:1')]</value>
-      <webElementGuid>38227370-1123-4522-9de2-58a3cd614f8e</webElementGuid>
+      <value>//li[@id = 'ui-id-379' and (text() = '111831280--AMELIYAH JAYA PERKASA, PT. Restructuring ke:1' or . = '111831280--AMELIYAH JAYA PERKASA, PT. Restructuring ke:1')]</value>
+      <webElementGuid>52639fef-fb78-4a31-99d4-5e55939f3131</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Sales</name>
    <tag></tag>
-   <elementGuidId>360a5d01-a497-4fb6-8a8d-b1b381ab1847</elementGuidId>
+   <elementGuidId>c0c97a79-6937-47a2-bd2e-f96ae57861fc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>653d59bc-e047-4d96-b0ff-eb0a263e9a39</webElementGuid>
+      <webElementGuid>4f6fc5c5-614d-4007-92b1-47c76b505ed3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>module_other/sales.php?menu_id=6.1.1</value>
-      <webElementGuid>b2f49f9a-3b5a-4a5d-8c60-040b8240115b</webElementGuid>
+      <webElementGuid>2ade1f61-699e-4877-bfbf-2e0bb84efbb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>main1</value>
-      <webElementGuid>18d8e096-4e1e-42d8-bb1a-fad653b5c0d4</webElementGuid>
+      <webElementGuid>e2ceb7f2-3cf5-4807-ad45-b63e318f865b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sales</value>
-      <webElementGuid>9554ddb6-dd63-434e-b8b5-e3fc4a40e97a</webElementGuid>
+      <webElementGuid>5d9f2bce-3c1a-4b96-87f0-3b413b4358be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[1]/a[1]</value>
-      <webElementGuid>9dba6723-d827-48e5-a61b-83c09a8238a2</webElementGuid>
+      <webElementGuid>d0c21f27-c47c-4f77-9b0c-d56a048e0974</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[5]/ul/li/ul/li/a</value>
-      <webElementGuid>00b4978d-1048-47e2-9b03-bf3c8dd6dfeb</webElementGuid>
+      <webElementGuid>c210b5f4-d75c-482c-9dac-8a1981cab3fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sales')]</value>
-      <webElementGuid>b699fd03-c327-4572-92c1-c6e04d745e88</webElementGuid>
+      <webElementGuid>d0111532-d450-4b18-8c21-b3ad93ad5501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Sales'])[1]/preceding::a[1]</value>
-      <webElementGuid>36b2eb6c-281b-4862-ad2d-7c60e6eb066f</webElementGuid>
+      <webElementGuid>d4efbec2-487a-4ef3-8ce3-021866322257</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'module_other/sales.php?menu_id=6.1.1')]</value>
-      <webElementGuid>c5c02464-16b3-46be-8126-b56bd9718e7f</webElementGuid>
+      <webElementGuid>b7204f6b-acb3-4570-8df7-50eeb073dc00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li/ul/li/a</value>
-      <webElementGuid>d85e61b7-3e0f-4305-b00f-8d28554f2e22</webElementGuid>
+      <webElementGuid>1b8964ee-ffb7-42ca-a3f5-bbf531997c64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'module_other/sales.php?menu_id=6.1.1' and (text() = 'Sales' or . = 'Sales')]</value>
-      <webElementGuid>780a691a-cc51-49f6-ae31-0f95bd738f29</webElementGuid>
+      <webElementGuid>8c57ce6d-e507-43f3-86ca-29b37cfef778</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

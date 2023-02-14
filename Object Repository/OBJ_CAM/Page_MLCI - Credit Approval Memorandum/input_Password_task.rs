@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Password_task</name>
    <tag></tag>
-   <elementGuidId>7ef34077-5239-4d10-82e8-47f5990447d5</elementGuidId>
+   <elementGuidId>ec44c66b-3313-44f8-8add-16659641471a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8f368da9-b2b9-47c3-bb89-a677f4f33ffb</webElementGuid>
+      <webElementGuid>2f45bfb0-d614-460e-9366-c03532384485</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>96775693-1115-4a23-980e-ca6aa9778ee5</webElementGuid>
+      <webElementGuid>c67c0fda-5e85-421c-9bdf-add807e2b607</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>task</value>
-      <webElementGuid>6e9a3266-969c-45e8-856a-641e06df7593</webElementGuid>
+      <webElementGuid>d8719aa8-83e3-4588-84bf-26a00051c41d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>fd58d657-7622-485d-b1e8-f6d24332e72a</webElementGuid>
+      <webElementGuid>25ec91c5-045c-4216-9575-96f6f73cbb17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login</value>
-      <webElementGuid>8f2e77da-735e-486c-ad2b-0bca3a9da0b4</webElementGuid>
+      <webElementGuid>c0d3f5e3-4806-492d-95c4-e144357e5e9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)</value>
-      <webElementGuid>fe3c91c1-4737-4ea6-93c3-fbab8850686e</webElementGuid>
+      <webElementGuid>5ec7be81-3e40-4083-b4a1-277aeaf70ebd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='login']</value>
-      <webElementGuid>96637afb-342f-4cbf-8086-4f74e628018f</webElementGuid>
+      <webElementGuid>4aac9863-fae6-4f92-b287-c4ee676151b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::input[2]</value>
-      <webElementGuid>f15c619a-9406-4e69-8627-f9e0068002f6</webElementGuid>
+      <webElementGuid>c0bc5340-7440-49ba-943f-d8c99475402f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::input[3]</value>
-      <webElementGuid>14c47ccf-d9f2-42b0-9fcc-cc0e8c9f982c</webElementGuid>
+      <webElementGuid>2f90edd2-0638-4d30-a9e0-850eb3b8393e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'login', '&quot;', ')')])[1]/preceding::input[1]</value>
-      <webElementGuid>987a7993-4e53-43f2-aac8-65448b776cd9</webElementGuid>
+      <webElementGuid>2fea4dd1-f232-444d-97ce-218d8627334e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[8]/td/input</value>
-      <webElementGuid>f6bfe403-d5ab-4fa9-b1fe-9e7bd9cb95be</webElementGuid>
+      <webElementGuid>6bc621e4-827a-4199-9adc-f434dd100ecd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'task' and @id = 'login']</value>
-      <webElementGuid>8c906543-c395-449d-9be8-192a31942c39</webElementGuid>
+      <webElementGuid>9996e90a-ddb0-4afe-ae80-8efd26ae9e52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

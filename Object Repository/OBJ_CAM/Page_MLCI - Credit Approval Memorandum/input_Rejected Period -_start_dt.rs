@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Rejected Period -_start_dt</name>
    <tag></tag>
-   <elementGuidId>69925a40-09b4-461c-9783-2fa9f1ea5405</elementGuidId>
+   <elementGuidId>0c379152-429a-49bd-a1e6-88d5da4dfbc8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1329ae7a-6efb-4883-a51d-4a179c3bafea</webElementGuid>
+      <webElementGuid>9a43a42c-3753-47ed-ac3c-054ec9871418</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4eb76097-dbec-4e86-a24a-cf7541c1205c</webElementGuid>
+      <webElementGuid>aa0ce63b-40ec-4b65-9a5c-ae5ad3011772</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>start_dt</value>
-      <webElementGuid>638786df-9654-4653-89b8-e07ef9514671</webElementGuid>
+      <webElementGuid>b5097f1f-d54c-4d1b-b276-a9cf6d2c9daf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>start_dt</value>
-      <webElementGuid>a38b5332-6698-4000-9fff-69ed20908d16</webElementGuid>
+      <webElementGuid>276485cf-4dae-49bd-984b-cf60f94774c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>g_calendarObject1.closeCalendar(); return isDate(event)</value>
-      <webElementGuid>500f26ce-4bd0-4a4f-bbba-0dcfbc6bbe60</webElementGuid>
+      <webElementGuid>6aa9e929-b610-4b63-8ef0-2cec79688d84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>globalnumber</name>
       <type>Main</type>
-      <value>38</value>
-      <webElementGuid>5019fc09-46c2-4cbd-bcd1-f2ebce78b9f7</webElementGuid>
+      <value>790</value>
+      <webElementGuid>fa306138-d164-4fc7-88a8-1961fa2dfdff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;start_dt&quot;)</value>
-      <webElementGuid>27051ec9-b518-4f99-aca9-645f4e43ecea</webElementGuid>
+      <webElementGuid>5c5e8bde-82a7-4eb3-81e6-05b6c82f8270</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>038fb75e-ec9e-4d78-95c9-957ffaa3bd4f</webElementGuid>
+      <webElementGuid>e55bc69b-2570-472b-95f8-86db105f99be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='start_dt']</value>
-      <webElementGuid>acd64be0-0a76-4d56-ba8d-0b3a636971b7</webElementGuid>
+      <webElementGuid>389fcf8b-db6c-4c65-8f86-a535a7760cf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>ece96232-d4bb-4d84-9fbe-d1075c42c94e</webElementGuid>
+      <webElementGuid>00dc4c5d-95b9-4265-bcd8-fd006e15bb65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'start_dt' and @id = 'start_dt']</value>
-      <webElementGuid>d4318049-9a03-4021-8940-ffda7d7d0210</webElementGuid>
+      <webElementGuid>53592e0d-1e71-46f5-b88d-57f1f5d1e218</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

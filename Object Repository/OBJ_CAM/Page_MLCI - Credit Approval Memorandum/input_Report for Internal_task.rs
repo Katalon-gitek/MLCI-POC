@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Report for Internal_task</name>
    <tag></tag>
-   <elementGuidId>38d3777b-b1b3-4274-8d47-63a41f8e484c</elementGuidId>
+   <elementGuidId>b5f7fe3a-0885-4637-a6d2-5e3f7151f024</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5bf04815-0a35-45f7-ab24-07a4f9d34df2</webElementGuid>
+      <webElementGuid>02a820aa-8ad5-44eb-b033-f82e098aebdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>1d1b623a-5767-4f17-96b8-0b3157925cbc</webElementGuid>
+      <webElementGuid>a760b26c-f675-4caf-bb8e-76aafd5aee57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>task</value>
-      <webElementGuid>990b5c91-17b2-48c9-8bcb-02a683dac9ac</webElementGuid>
+      <webElementGuid>886bba60-81a6-4684-a7e6-befcbb446109</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>84f83793-fd1b-4e98-8ced-a106e5d580eb</webElementGuid>
+      <webElementGuid>097b2fce-b5c8-403b-ae49-c3c0d3ce0607</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>cek();</value>
-      <webElementGuid>446c723b-180c-4320-a00d-92881255e1b8</webElementGuid>
+      <webElementGuid>0bc587b8-98b9-4cbc-888a-4f441478eacc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/form[1]/table[@class=&quot;noPrint&quot;]/tbody[1]/tr[8]/td[@class=&quot;table_button&quot;]/input[1]</value>
-      <webElementGuid>329245a5-62aa-456d-95f1-77264d60c144</webElementGuid>
+      <webElementGuid>14a90c45-bed4-4c1a-b2d5-2433c218fffd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>a1481cf2-7b67-4cb9-a8d9-35334eb0c2e2</webElementGuid>
+      <webElementGuid>5a79f1b9-cdbe-47e2-982c-ce10c092e7a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='task']</value>
-      <webElementGuid>e1217b4d-91aa-42f6-8dd6-ab9d515a7bbc</webElementGuid>
+      <webElementGuid>5ae49734-5a44-4b00-a750-7d6ae0be9954</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[8]/td[2]/input</value>
-      <webElementGuid>d718db27-21d0-4794-b51f-5eb59392f1e6</webElementGuid>
+      <webElementGuid>11724d31-c743-4b7c-8746-c880b9199b60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'task']</value>
-      <webElementGuid>f0a9c563-f455-4bbc-9b7a-7a8e70da9904</webElementGuid>
+      <webElementGuid>32e8f217-fc65-4c78-8ebd-5b2b893bacb5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

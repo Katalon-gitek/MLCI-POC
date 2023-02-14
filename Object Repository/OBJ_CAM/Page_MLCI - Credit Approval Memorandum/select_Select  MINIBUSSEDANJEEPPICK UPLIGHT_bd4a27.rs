@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Select  MINIBUSSEDANJEEPPICK UPLIGHT_bd4a27</name>
    <tag></tag>
-   <elementGuidId>3e5b59e4-a9d3-4fa5-b131-e2fa1b1af5be</elementGuidId>
+   <elementGuidId>398eb418-2511-4f71-955f-ec71202ef8a0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>4054d47c-7c8c-4fb8-9010-889a80cffe5a</webElementGuid>
+      <webElementGuid>5b944bf9-7833-49a3-8848-3fdeb2c37955</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>model</value>
-      <webElementGuid>f3ea5a35-77d5-47dc-91c0-21f9dc9f2ee3</webElementGuid>
+      <webElementGuid>706fa457-d9c4-4b6f-ba98-12577fa785f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>model</value>
-      <webElementGuid>a9f64d7d-73ea-46fb-ba83-6759948017c6</webElementGuid>
+      <webElementGuid>387722ec-1c28-459f-9eb9-ad396d6e8061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
   Select
   MINIBUSSEDANJEEPPICK UPLIGHT TRUCKTRUCKMICROBUSLAIN - LAINBUS (>30)HEAD TRACTOR/TRAILERWELDING MACHINEFLAT TOP TRAILERMOBILE ARTC. CRANETELESCOPIC BOOM LIFTMINE PUMPMODULE FUEL TRUCKSUBMERSIBLE PUMPMODULE LUBE TRUCKHYD. SUBMERSIBLE SLURRY PUMPMOTORHILUXEXCAVATORTRACTORWHEEL LOADERCRAWLER CRANEELECTRIC TOW TRUCKFORKLIFTBATTERYTELEHANDLERDUMP TRUCKLED SCREENLIFT TRUCKBUGGY CARTROUGH MOWERREACH TRUCKROTARY DRILLING RIGTRIPLE TRAILERSSYNC HOIST SYSTEMSLAB MEDIANAUTO HI CAPACITY SYSNETWORK EQUIPMENTASPHALT PAVERGENSETMULTIBALERSOLOMIXFORAGE HARVESTERBOOM LIFTTERRAIN CRANEROTARY SCREWFILTERHARDWARE SOFTWAREWHEEL DOZERBACKHOE LOADERCRANERECTIFIERGENERATORRACKING ORBITALEFP (CAMERA SYSTEM)CHILLERSOUND SYSTEMACCOUSTIC STUDIOLIGHTINGESCALATORPELLET EQUIPMENTTOWER CRANEWINDER MACHINETRACKED TROMMELBLASTHOLE DRILLSSHIP EQUIPMENTINTERIOR FIT OUTMACHINERYMOTOR GRADERCRAWLER DOZERTROMMEL SCREENARTC. DUMP TRUCKBULLDOZERVESSELHEAD ENDANTENNAIMPACT CRUSHERSHAFT RECLAIMERXPRO COAL CATTRANSMITTER 3 KW RMSTRANSMITTER 1 KWPOWER SCALEREAKTIVITAS SIARANTRANSMITTER 10 KWIRD SD/HD REACHSTAKERASPHALT MIXING PLANTVIBRATORY COMPACTOROFF HIGHWAY TRUCKPRIME PUMPSKID-STEER LOADERSFUEL TANK 20KLWATER TANK 20KLSD COMPACTORSELECTRIC BOOMLIFT</value>
-      <webElementGuid>372500f6-2e3c-450f-8b77-f4ce0858161e</webElementGuid>
+      <webElementGuid>798d94b0-fb39-4b21-b921-7b8c736376b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;model&quot;)</value>
-      <webElementGuid>91cee3ee-4385-4a08-b030-8bbd86cf5eff</webElementGuid>
+      <webElementGuid>e7b8d436-c26f-43e5-a157-ef1f40000622</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>6620d4e3-7da0-47e9-8ee2-32bc3276ffde</webElementGuid>
+      <webElementGuid>f8bd76f6-99c1-48f8-b4ca-28fd3707a4b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='model']</value>
-      <webElementGuid>db5c34d7-7bc4-4aeb-a80d-30013577e34b</webElementGuid>
+      <webElementGuid>f982cd01-3d3b-49a5-b650-79d7b08d379a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/following::select[1]</value>
-      <webElementGuid>a746973a-1e46-4457-92e8-2efc180e47f8</webElementGuid>
+      <webElementGuid>dc0e55d4-b6b4-418f-85da-65b49c0f65c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::select[2]</value>
-      <webElementGuid>9bbdae37-9057-44b1-8b8a-af7a993e1b5b</webElementGuid>
+      <webElementGuid>c40ced91-8a82-40d1-83fb-e7af142050be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[1]/preceding::select[1]</value>
-      <webElementGuid>b82658d0-4614-42e5-8256-d18ea8357824</webElementGuid>
+      <webElementGuid>33b84751-cde1-4c17-8669-e4013e2673f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[2]/preceding::select[1]</value>
-      <webElementGuid>7571da67-884a-4af0-8f47-38e168e7ea34</webElementGuid>
+      <webElementGuid>5065ae1c-d7f3-4eab-b0a1-b6aa76e166d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[2]/select</value>
-      <webElementGuid>c9b7c0e1-a141-45e1-8c82-ef48c533487e</webElementGuid>
+      <webElementGuid>e2f57cc3-61f8-488d-8294-92b3330c74bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +124,6 @@
   MINIBUSSEDANJEEPPICK UPLIGHT TRUCKTRUCKMICROBUSLAIN - LAINBUS (>30)HEAD TRACTOR/TRAILERWELDING MACHINEFLAT TOP TRAILERMOBILE ARTC. CRANETELESCOPIC BOOM LIFTMINE PUMPMODULE FUEL TRUCKSUBMERSIBLE PUMPMODULE LUBE TRUCKHYD. SUBMERSIBLE SLURRY PUMPMOTORHILUXEXCAVATORTRACTORWHEEL LOADERCRAWLER CRANEELECTRIC TOW TRUCKFORKLIFTBATTERYTELEHANDLERDUMP TRUCKLED SCREENLIFT TRUCKBUGGY CARTROUGH MOWERREACH TRUCKROTARY DRILLING RIGTRIPLE TRAILERSSYNC HOIST SYSTEMSLAB MEDIANAUTO HI CAPACITY SYSNETWORK EQUIPMENTASPHALT PAVERGENSETMULTIBALERSOLOMIXFORAGE HARVESTERBOOM LIFTTERRAIN CRANEROTARY SCREWFILTERHARDWARE SOFTWAREWHEEL DOZERBACKHOE LOADERCRANERECTIFIERGENERATORRACKING ORBITALEFP (CAMERA SYSTEM)CHILLERSOUND SYSTEMACCOUSTIC STUDIOLIGHTINGESCALATORPELLET EQUIPMENTTOWER CRANEWINDER MACHINETRACKED TROMMELBLASTHOLE DRILLSSHIP EQUIPMENTINTERIOR FIT OUTMACHINERYMOTOR GRADERCRAWLER DOZERTROMMEL SCREENARTC. DUMP TRUCKBULLDOZERVESSELHEAD ENDANTENNAIMPACT CRUSHERSHAFT RECLAIMERXPRO COAL CATTRANSMITTER 3 KW RMSTRANSMITTER 1 KWPOWER SCALEREAKTIVITAS SIARANTRANSMITTER 10 KWIRD SD/HD REACHSTAKERASPHALT MIXING PLANTVIBRATORY COMPACTOROFF HIGHWAY TRUCKPRIME PUMPSKID-STEER LOADERSFUEL TANK 20KLWATER TANK 20KLSD COMPACTORSELECTRIC BOOMLIFT' or . = '
   Select
   MINIBUSSEDANJEEPPICK UPLIGHT TRUCKTRUCKMICROBUSLAIN - LAINBUS (>30)HEAD TRACTOR/TRAILERWELDING MACHINEFLAT TOP TRAILERMOBILE ARTC. CRANETELESCOPIC BOOM LIFTMINE PUMPMODULE FUEL TRUCKSUBMERSIBLE PUMPMODULE LUBE TRUCKHYD. SUBMERSIBLE SLURRY PUMPMOTORHILUXEXCAVATORTRACTORWHEEL LOADERCRAWLER CRANEELECTRIC TOW TRUCKFORKLIFTBATTERYTELEHANDLERDUMP TRUCKLED SCREENLIFT TRUCKBUGGY CARTROUGH MOWERREACH TRUCKROTARY DRILLING RIGTRIPLE TRAILERSSYNC HOIST SYSTEMSLAB MEDIANAUTO HI CAPACITY SYSNETWORK EQUIPMENTASPHALT PAVERGENSETMULTIBALERSOLOMIXFORAGE HARVESTERBOOM LIFTTERRAIN CRANEROTARY SCREWFILTERHARDWARE SOFTWAREWHEEL DOZERBACKHOE LOADERCRANERECTIFIERGENERATORRACKING ORBITALEFP (CAMERA SYSTEM)CHILLERSOUND SYSTEMACCOUSTIC STUDIOLIGHTINGESCALATORPELLET EQUIPMENTTOWER CRANEWINDER MACHINETRACKED TROMMELBLASTHOLE DRILLSSHIP EQUIPMENTINTERIOR FIT OUTMACHINERYMOTOR GRADERCRAWLER DOZERTROMMEL SCREENARTC. DUMP TRUCKBULLDOZERVESSELHEAD ENDANTENNAIMPACT CRUSHERSHAFT RECLAIMERXPRO COAL CATTRANSMITTER 3 KW RMSTRANSMITTER 1 KWPOWER SCALEREAKTIVITAS SIARANTRANSMITTER 10 KWIRD SD/HD REACHSTAKERASPHALT MIXING PLANTVIBRATORY COMPACTOROFF HIGHWAY TRUCKPRIME PUMPSKID-STEER LOADERSFUEL TANK 20KLWATER TANK 20KLSD COMPACTORSELECTRIC BOOMLIFT')]</value>
-      <webElementGuid>50ead5a8-1e88-4f52-91a7-85135df1c4b1</webElementGuid>
+      <webElementGuid>04261c46-ec2c-4e34-9c2c-35bb5d1f3a77</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

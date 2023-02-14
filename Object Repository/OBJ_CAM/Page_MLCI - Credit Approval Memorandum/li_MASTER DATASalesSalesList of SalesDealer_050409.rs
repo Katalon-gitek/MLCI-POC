@@ -3,7 +3,7 @@
    <description></description>
    <name>li_MASTER DATASalesSalesList of SalesDealer_050409</name>
    <tag></tag>
-   <elementGuidId>2e03268b-ae93-49d3-88c3-07c871953e81</elementGuidId>
+   <elementGuidId>81749141-966b-4afb-a8b3-fa0923aac767</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>8eb76208-fab7-4f39-b5df-774f04553f58</webElementGuid>
+      <webElementGuid>2addffe1-3af3-475e-ba94-24e9f05d29c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>submenu</value>
-      <webElementGuid>e95530ed-0ab9-4f71-9cc0-c44ad9fbb385</webElementGuid>
+      <webElementGuid>bbf09a96-7d3f-475b-bfcd-a31caf05a37f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>MASTER DATASalesSalesList of SalesDealerDealerList of SupplierDealer ProfileCollateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of KaroseriInsuranceInsuranceList of InsuranceGROUPEntry &amp; EditGroup ReportList of GroupWATCHLISTEntry &amp; EditReport/ ViewEntry &amp; Edit by CorsecBLACKLISTEntry &amp; EditReport/ViewList Pelaporan Terduga TerorisPEPViewReportHIGH RISK CUSTOMER APU PPTVIEWREPORTSID ReportSummary SID ReportDetail SID ReportIndustry Code</value>
-      <webElementGuid>faeb0954-2a5c-4925-8a03-17e9bd8afd42</webElementGuid>
+      <webElementGuid>98555e3b-219a-4bd7-b4e5-a0900ccc04fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]</value>
-      <webElementGuid>a0b071b1-4417-4a59-aab2-9eaa9c6b4f7c</webElementGuid>
+      <webElementGuid>fdc59681-a5c2-416a-adec-972d4750b86e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[5]</value>
-      <webElementGuid>500733f3-1e72-4313-a39a-9b027842b6cd</webElementGuid>
+      <webElementGuid>22f735e6-7ec2-45b5-82b8-3f4402fd61ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Offering Letter'])[1]/following::li[1]</value>
-      <webElementGuid>fb40443e-d7f5-4c53-811f-f1e082938820</webElementGuid>
+      <webElementGuid>a6659928-0d36-4304-b5c7-a4fdcd1c6205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='MASTER DATA']/parent::*</value>
-      <webElementGuid>07a31c54-9e5e-4971-a711-ab28e65a4a42</webElementGuid>
+      <webElementGuid>461840b8-4cab-4121-8591-ae54ba7a4b5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/ul/li[5]</value>
-      <webElementGuid>d8b9b4d2-4f82-4cc8-869a-946a084b2201</webElementGuid>
+      <webElementGuid>bff01e92-73f5-4de2-b0c3-dcea7d61ba8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'MASTER DATASalesSalesList of SalesDealerDealerList of SupplierDealer ProfileCollateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of KaroseriInsuranceInsuranceList of InsuranceGROUPEntry &amp; EditGroup ReportList of GroupWATCHLISTEntry &amp; EditReport/ ViewEntry &amp; Edit by CorsecBLACKLISTEntry &amp; EditReport/ViewList Pelaporan Terduga TerorisPEPViewReportHIGH RISK CUSTOMER APU PPTVIEWREPORTSID ReportSummary SID ReportDetail SID ReportIndustry Code' or . = 'MASTER DATASalesSalesList of SalesDealerDealerList of SupplierDealer ProfileCollateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of KaroseriInsuranceInsuranceList of InsuranceGROUPEntry &amp; EditGroup ReportList of GroupWATCHLISTEntry &amp; EditReport/ ViewEntry &amp; Edit by CorsecBLACKLISTEntry &amp; EditReport/ViewList Pelaporan Terduga TerorisPEPViewReportHIGH RISK CUSTOMER APU PPTVIEWREPORTSID ReportSummary SID ReportDetail SID ReportIndustry Code')]</value>
-      <webElementGuid>26915091-4f16-4bdd-a2d7-5f6775d408bd</webElementGuid>
+      <webElementGuid>455ea305-4ce2-4269-a2f0-f7f56223815c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

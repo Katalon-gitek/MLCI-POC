@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Sun_end_dt</name>
    <tag></tag>
-   <elementGuidId>e7969c20-10e3-4706-8ecd-e76b966d927e</elementGuidId>
+   <elementGuidId>c8f369f5-0be0-4eba-af60-baa388d2eb6f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>555a0567-2471-4f62-904b-fb5572f16195</webElementGuid>
+      <webElementGuid>44c163b4-5df9-4cf9-af37-3b58731e0677</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9f344613-0b32-4fe3-b9d2-7bc905c69a65</webElementGuid>
+      <webElementGuid>05ecabfd-7458-4054-8933-d87430709787</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>end_dt</value>
-      <webElementGuid>009d98fa-bb8c-4ad0-9a38-a72d5b2077a7</webElementGuid>
+      <webElementGuid>1a789982-d833-4d9b-b7dd-1fa6e9f72af9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>end_dt</value>
-      <webElementGuid>e64e2c4a-686c-4d1f-bcc6-e9f32156a63f</webElementGuid>
+      <webElementGuid>5c1036f1-fb49-4aa2-9607-553acc1dcd1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>g_calendarObject2.closeCalendar(); return isDate(event)</value>
-      <webElementGuid>e0067816-d24e-4eb5-9bd4-d86555be317d</webElementGuid>
+      <webElementGuid>54eb5fcd-7cb1-49da-bcbf-cf41774aaa7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>globalnumber</name>
       <type>Main</type>
-      <value>139</value>
-      <webElementGuid>b3fa1558-d883-4c86-ae44-67ac12da5032</webElementGuid>
+      <value>58</value>
+      <webElementGuid>591c00ed-eb90-4638-b15a-ee624069fa49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;end_dt&quot;)</value>
-      <webElementGuid>992e8188-4394-4a00-a493-16e1439ae1d6</webElementGuid>
+      <webElementGuid>9ca21fcd-29dc-4af1-9a8d-c047cae11772</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>398e488f-8eaa-454e-afcf-d0ca84407f23</webElementGuid>
+      <webElementGuid>6e4b24aa-47a6-4863-8df7-c027f02940ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='end_dt']</value>
-      <webElementGuid>b754a447-dbef-4f3a-b877-c6771fa7015a</webElementGuid>
+      <webElementGuid>3fdd647e-20cb-418b-82bf-19bcfe62f5de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/input</value>
-      <webElementGuid>9788e1ae-9f6c-45a1-aae3-cb8563457f4a</webElementGuid>
+      <webElementGuid>a94c282c-be6c-47da-9c0b-7d32bf1f696e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'end_dt' and @id = 'end_dt']</value>
-      <webElementGuid>2afeda7a-bbe6-4c60-b0a0-085fb2ab8071</webElementGuid>
+      <webElementGuid>0ef4bb7c-e253-4feb-9bae-1dac4a7e5837</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

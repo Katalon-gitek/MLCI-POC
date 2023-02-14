@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Report for Internal_reportfilter</name>
    <tag></tag>
-   <elementGuidId>2b197451-0567-430c-ab29-29589942494c</elementGuidId>
+   <elementGuidId>463c1074-2097-4842-ad7f-8a73bf8a03fb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b84bf1a8-c0f0-4a67-8310-8664dc2ad0ea</webElementGuid>
+      <webElementGuid>c42e3df9-cb7e-4a64-b928-a7b483a2f3b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>c24fc223-b653-4223-967e-be729ee73f9d</webElementGuid>
+      <webElementGuid>556d34a4-88b9-45da-b7b2-1f5a55bf6cbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>reportint</value>
-      <webElementGuid>d7548fa3-793f-4c45-918e-5e2e95ab1198</webElementGuid>
+      <webElementGuid>8c4b78bc-714d-4b80-8401-46a0d0833de8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>reportfilter</value>
-      <webElementGuid>4432d63e-d9da-43e4-a3ff-243404f9dec3</webElementGuid>
+      <webElementGuid>412b5b02-a67d-44b5-9654-3c8e8979876c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>88</value>
-      <webElementGuid>705362ca-0820-4868-a82c-2429fd1afe64</webElementGuid>
+      <webElementGuid>75d735b9-6537-40fc-a4a2-f74cf1196629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;reportint&quot;)</value>
-      <webElementGuid>286d9b87-afb6-4b44-a940-10cc8375da8e</webElementGuid>
+      <webElementGuid>ccaf380b-da92-487b-aa3d-a1a40b4aca36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>8259e5ce-fdf0-4b02-bca4-622f680939cf</webElementGuid>
+      <webElementGuid>b24ee4e2-fc62-4d97-8135-f0828793e2b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='reportint']</value>
-      <webElementGuid>0f74ecb0-2533-4d77-b57a-5ce4c7f5e005</webElementGuid>
+      <webElementGuid>f19a1747-108d-4bd5-87a7-d04ab79ea0c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[7]/td[2]/input</value>
-      <webElementGuid>6379f8b9-0f46-46a4-96bb-10fd11076e3d</webElementGuid>
+      <webElementGuid>10b328fc-eed1-48ea-b549-68d6ebd8091c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'reportint' and @name = 'reportfilter']</value>
-      <webElementGuid>fe78e306-2a8e-42b4-92bd-d9d6a918d498</webElementGuid>
+      <webElementGuid>db0cc59c-20d9-4e02-8fd5-b5fbb895a78f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

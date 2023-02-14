@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Amortization Report</name>
    <tag></tag>
-   <elementGuidId>ddbc0d35-d21b-425e-9702-051083956da9</elementGuidId>
+   <elementGuidId>7ec340dc-0fed-4b69-8351-e02658fce967</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>94c768ee-e117-44cc-93df-0693ad8040b4</webElementGuid>
+      <webElementGuid>2186b6bc-a73d-4ccf-aeea-3667546624a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>module_cam/rpt_amortization.php?menu_id=1.4.7.2</value>
-      <webElementGuid>e7488667-82a7-4cf3-abd9-9e5fef619e6e</webElementGuid>
+      <webElementGuid>5a9f39d1-221c-451c-8dc8-2c2c05e82089</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>main1</value>
-      <webElementGuid>1918f537-9307-4d41-9272-f06ebd63d472</webElementGuid>
+      <webElementGuid>7efb0fb8-ea4c-49c8-b476-0812dbca835e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Amortization Report</value>
-      <webElementGuid>2ab8f8bc-f262-47df-b91b-c73827ab549a</webElementGuid>
+      <webElementGuid>bd7dec7b-d92f-47e4-8920-26be9f137d72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[2]/a[1]</value>
-      <webElementGuid>942b14c9-9f0d-4f16-b6eb-4398b5891a46</webElementGuid>
+      <webElementGuid>7c0aa078-20db-42a0-8e5b-2a0a5c88495e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li/ul/li[3]/ul/li[6]/ul/li[2]/a</value>
-      <webElementGuid>c645111b-b6c7-4af9-911e-151c4fd1fe7d</webElementGuid>
+      <webElementGuid>32c2ebfa-d425-4843-a6e7-e9a30141f28f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Amortization Report')]</value>
-      <webElementGuid>35ec8ccd-b835-49f0-8b96-2c0f0029b352</webElementGuid>
+      <webElementGuid>801b2f11-c89c-405f-9840-41b8cfbdea20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='History Payment'])[1]/following::a[1]</value>
-      <webElementGuid>c0f05687-57d2-483e-b23b-84eff07a7ecf</webElementGuid>
+      <webElementGuid>d53505f0-7a96-4b2c-bd2d-431333b0cb2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Undisburse Contract'])[1]/preceding::a[1]</value>
-      <webElementGuid>0dbb1184-1b93-4706-a4c9-64f25c0c636e</webElementGuid>
+      <webElementGuid>7ef16845-6466-40fc-b56d-f6011e177ebf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Amortization Report']/parent::*</value>
-      <webElementGuid>71744ad1-9de2-44c0-81d4-a75e3876eb5e</webElementGuid>
+      <webElementGuid>9072b4f5-c5b2-4552-a985-e0d55d8f6c95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'module_cam/rpt_amortization.php?menu_id=1.4.7.2')]</value>
-      <webElementGuid>197c9197-c761-4e87-8aac-07fe66bbe09e</webElementGuid>
+      <webElementGuid>49a377fd-5ae8-4b17-b918-ce5e47222cff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li[2]/a</value>
-      <webElementGuid>1cccef2e-a363-4e82-bf8d-c6913e97f8e1</webElementGuid>
+      <webElementGuid>8f52a0e4-8a2b-4911-9ade-6d001f50bd7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'module_cam/rpt_amortization.php?menu_id=1.4.7.2' and (text() = 'Amortization Report' or . = 'Amortization Report')]</value>
-      <webElementGuid>d792b7dc-6b95-4fe7-96f9-b9d9318a0a5e</webElementGuid>
+      <webElementGuid>0415ab47-5bad-4599-a7f8-abf3190b0791</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

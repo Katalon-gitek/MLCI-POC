@@ -3,7 +3,7 @@
    <description></description>
    <name>li_RESTRUCTURING FOR COVIDReport of Rejecte_ccf5bb</name>
    <tag></tag>
-   <elementGuidId>9c500694-deaa-4027-99eb-e2159894ce11</elementGuidId>
+   <elementGuidId>11da192a-6afe-4a8e-a812-b264a71a1584</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>a65680e8-da9b-4faa-9c7e-84c3fab960c8</webElementGuid>
+      <webElementGuid>aa985d64-9ccc-489a-b6ea-f00b34fd9279</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>submenu</value>
-      <webElementGuid>e586a2d1-93f3-4fad-8284-b1c126d264f8</webElementGuid>
+      <webElementGuid>6142bf8c-f253-41ff-a5af-ea2e403f4b79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>RESTRUCTURING FOR COVIDReport of Rejected Restructuring Covid 19View IM Restructuring</value>
-      <webElementGuid>f6ea52ed-7cef-4e2f-a0c2-61dd4e7ef4fc</webElementGuid>
+      <webElementGuid>082a996c-532e-4b53-bca7-6749d9ec66a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]</value>
-      <webElementGuid>8d285278-aa19-4942-b274-549911616600</webElementGuid>
+      <webElementGuid>080b1720-1c61-46dd-bea6-0e049cf41a98</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[2]</value>
-      <webElementGuid>90a2ff92-8dba-42b9-b9c5-d87f8b04f15e</webElementGuid>
+      <webElementGuid>860ae876-f9ff-4094-b970-156620b9d6b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Undisburse Contract'])[1]/following::li[1]</value>
-      <webElementGuid>8b5bfeee-2b67-4306-9ff0-ebd661dcd929</webElementGuid>
+      <webElementGuid>44521556-8d1c-4bc2-b8c0-83f3ff028f44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Amortization Report'])[1]/following::li[2]</value>
-      <webElementGuid>346ad369-d892-4b75-9267-9f404f0515f9</webElementGuid>
+      <webElementGuid>b427928e-b1f0-4dc6-84e7-71a959e1afae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='RESTRUCTURING FOR COVID']/parent::*</value>
-      <webElementGuid>9e102b27-ab13-484a-83bc-e20e92d54bce</webElementGuid>
+      <webElementGuid>a4eb1601-cfd3-464b-923b-05ce6d42bc42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/ul/li[2]</value>
-      <webElementGuid>892cdd2b-7d32-423d-92eb-872d0c7e7bbf</webElementGuid>
+      <webElementGuid>bfdf3eb0-c8bd-42fa-9b76-4a0038ffdf6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'RESTRUCTURING FOR COVIDReport of Rejected Restructuring Covid 19View IM Restructuring' or . = 'RESTRUCTURING FOR COVIDReport of Rejected Restructuring Covid 19View IM Restructuring')]</value>
-      <webElementGuid>e556b147-6acb-4550-8d37-a74d581456f7</webElementGuid>
+      <webElementGuid>24d5ab56-6e77-4cd4-a973-728898eb30e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

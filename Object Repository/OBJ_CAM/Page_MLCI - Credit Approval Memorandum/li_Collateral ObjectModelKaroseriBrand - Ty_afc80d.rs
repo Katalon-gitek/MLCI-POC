@@ -3,7 +3,7 @@
    <description></description>
    <name>li_Collateral ObjectModelKaroseriBrand - Ty_afc80d</name>
    <tag></tag>
-   <elementGuidId>d19ef05d-0b24-4a43-a0e7-b7aea688adce</elementGuidId>
+   <elementGuidId>7f8ecad8-9274-4e2d-a8cf-7e4d3d61f869</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>de671d51-831d-44e1-b22e-a9e1d8ff9adc</webElementGuid>
+      <webElementGuid>f55fd072-6d79-44b0-823d-3ea9edc2366d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>submenu</value>
-      <webElementGuid>ce407f09-4667-4284-8c27-a2a20aa6ca87</webElementGuid>
+      <webElementGuid>cadb15f2-abe0-4e1d-a0c2-80a98c76ccfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Collateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of Karoseri</value>
-      <webElementGuid>ab305185-052d-4112-baa8-e66d6dc4b785</webElementGuid>
+      <webElementGuid>d7621a2a-4fbe-4ba3-b12d-b7faddc33ac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]</value>
-      <webElementGuid>e8710362-d9d0-4ff5-a07f-bc3863de14fc</webElementGuid>
+      <webElementGuid>9a181c29-7fdf-4980-8d47-6f52476039aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[5]/ul/li[3]</value>
-      <webElementGuid>1a30a0c6-b104-49f8-ab7f-d464c935883d</webElementGuid>
+      <webElementGuid>ebb0c3d1-0e63-42f5-98e5-ce9a668be947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Profile'])[1]/following::li[1]</value>
-      <webElementGuid>13b096fc-cd0a-4ae0-b703-f6c153a868ea</webElementGuid>
+      <webElementGuid>e27af239-d456-4374-81c4-45f5996250a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Supplier'])[1]/following::li[2]</value>
-      <webElementGuid>67136219-cf6b-461c-9d5e-f940d08b8bdb</webElementGuid>
+      <webElementGuid>330a98d4-40c0-4813-b780-0a3d336ab279</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Collateral Object']/parent::*</value>
-      <webElementGuid>cf7f407c-10c4-42dc-898b-263ef7160e57</webElementGuid>
+      <webElementGuid>9b98a561-92e8-4d98-bd33-53b4c86214f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[3]</value>
-      <webElementGuid>f7312134-1557-498f-b18e-bf30b9113021</webElementGuid>
+      <webElementGuid>c61510cc-8e08-476c-8b21-303c9837ef90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Collateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of Karoseri' or . = 'Collateral ObjectModelKaroseriBrand - TypeList of BrandList of ModelList of Karoseri')]</value>
-      <webElementGuid>12c9f31b-9b8d-47dc-a366-5e98fd5c3435</webElementGuid>
+      <webElementGuid>546bb606-36be-431a-afd3-786cb697f95b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

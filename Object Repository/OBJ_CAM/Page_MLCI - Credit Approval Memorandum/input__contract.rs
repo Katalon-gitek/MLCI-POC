@@ -3,7 +3,7 @@
    <description></description>
    <name>input__contract</name>
    <tag></tag>
-   <elementGuidId>04c6a754-1110-4f35-8f52-c33f2a75ab48</elementGuidId>
+   <elementGuidId>fc79e58b-1e7c-4d4b-9035-f98a5fdb0a0a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5545c50c-c9e6-489f-9d20-d9f10259e117</webElementGuid>
+      <webElementGuid>6ecadff0-dff8-4d16-b45e-763c023d0550</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2ecd02b1-f163-4e2b-9e4f-33c7b3f823b3</webElementGuid>
+      <webElementGuid>42918a73-af23-464c-86ca-7fa5d4182fd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>contract</value>
-      <webElementGuid>e034d6d2-ab96-41f9-8355-26354aecb93f</webElementGuid>
+      <webElementGuid>1368aa56-2e73-4033-a7aa-762ab4231368</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>contract</value>
-      <webElementGuid>c5cfdfdc-2422-4f3f-87e8-1efc39e633ec</webElementGuid>
+      <webElementGuid>c84841aa-d74f-448b-a485-d8a3175979c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>return isNumberKey(event)</value>
-      <webElementGuid>c1d1e158-899c-4cde-a2ed-22994b7ec4c3</webElementGuid>
+      <webElementGuid>82ebbca9-613e-4373-93c5-cb24e8f80554</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>4f1fa4f1-1500-4203-bc7c-9fee08fb98ab</webElementGuid>
+      <webElementGuid>be832a41-e3dc-4fd5-961b-202a450968b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-autocomplete-input</value>
-      <webElementGuid>0a60dcd0-7cb6-47db-9bfa-c01399989fcc</webElementGuid>
+      <webElementGuid>a1f7dfa7-3e57-4e2c-9241-7213513e903f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a9bf2aa1-459f-48ac-bfe0-199cc301d344</webElementGuid>
+      <webElementGuid>c2ff7da9-c0b3-4a77-aa50-57eb606d1f8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contract&quot;)</value>
-      <webElementGuid>17d9a395-f5fe-466e-847e-f67fe6124ac1</webElementGuid>
+      <webElementGuid>d0c3065c-833c-4939-85fe-da67be22e18d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>47bc95dd-1bcd-4fc7-9579-4ef28ed7945b</webElementGuid>
+      <webElementGuid>86cc7c43-27fe-4fd6-a898-515560fd42bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='contract']</value>
-      <webElementGuid>423d2f02-d520-460e-a8de-63530cc4e5f5</webElementGuid>
+      <webElementGuid>a33bcfb4-8763-4656-945f-6b972b561ad5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form1']/table/tbody/tr[2]/td[2]/input</value>
-      <webElementGuid>1f213f7c-7858-4fd6-8586-4ea845e1c5c6</webElementGuid>
+      <webElementGuid>3efc9b8d-5c8c-4901-8b35-b5e7f87ea49c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/input</value>
-      <webElementGuid>2bc3ed3c-d7d0-4d5c-86bf-ebff7c37a21c</webElementGuid>
+      <webElementGuid>1727d976-e06a-4705-8e12-10bf2da6a10c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'contract' and @id = 'contract']</value>
-      <webElementGuid>7012c407-929e-4ce3-8e1b-0b914923e6f2</webElementGuid>
+      <webElementGuid>085bec43-939b-4c7d-9cc4-c4cde3847077</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

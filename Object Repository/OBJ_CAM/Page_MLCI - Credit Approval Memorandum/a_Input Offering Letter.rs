@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Input Offering Letter</name>
    <tag></tag>
-   <elementGuidId>c29bde4a-3c63-47d3-84ed-238adea94a4f</elementGuidId>
+   <elementGuidId>c42857a4-3590-4f2b-8351-c4bcca2f7bf2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fedb920c-b3fc-464b-973b-818a4a60135d</webElementGuid>
+      <webElementGuid>e0c3dd1f-8af9-4ab3-9ebd-685fb2ac625b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>module_offering/OfferingLetter.php?menu_id=5.1</value>
-      <webElementGuid>5ff32430-6c30-47a0-afd8-05a88bcd7ae8</webElementGuid>
+      <webElementGuid>ecfe7c9e-d04c-43cc-acff-4d599941c190</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>main1</value>
-      <webElementGuid>92ded505-e98b-4a9c-9580-d5262a5fd1d6</webElementGuid>
+      <webElementGuid>707eb567-c06b-49eb-99dd-8d8dcf0e4aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Input Offering Letter</value>
-      <webElementGuid>bb2a39de-886e-4d21-9c40-10be9003129f</webElementGuid>
+      <webElementGuid>3f36a6f8-17da-49fe-8702-5ae09b093707</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[1]/a[1]</value>
-      <webElementGuid>c2ffc1f2-f3ba-4029-8c83-6a52f3a200e2</webElementGuid>
+      <webElementGuid>1860aaf7-8e24-41ca-9399-6a7aa03e1922</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[4]/ul/li/a</value>
-      <webElementGuid>2237d187-f885-4eb1-93ca-005716c09a67</webElementGuid>
+      <webElementGuid>138b9631-b5db-48c3-b893-385d30679cc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Input Offering Letter')]</value>
-      <webElementGuid>6534f6a5-f8f2-42f0-a2c3-915731cf2a23</webElementGuid>
+      <webElementGuid>8fbaf6b5-67c8-4fa3-a4ac-a4ebf2be46b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Reviewer Head Request'])[1]/following::a[1]</value>
-      <webElementGuid>c0a3e911-8c9a-42a7-ae3d-75b9f1a7a84f</webElementGuid>
+      <webElementGuid>5f755a37-6226-413d-a9b8-d4b65e2d839c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Input Offering Letter']/parent::*</value>
-      <webElementGuid>d9ec424f-1074-40e4-ac44-2b85149de44e</webElementGuid>
+      <webElementGuid>e16445d6-0503-4472-a25d-a679561b6c79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'module_offering/OfferingLetter.php?menu_id=5.1')]</value>
-      <webElementGuid>d60b3a7f-0586-4722-8e3a-eb72b8901753</webElementGuid>
+      <webElementGuid>74c90806-00f5-4e06-90d1-284636d555f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/ul/li[4]/ul/li/a</value>
-      <webElementGuid>65dd75c4-2d23-4994-a466-edc9e6933538</webElementGuid>
+      <webElementGuid>98c045d7-9c37-4b9d-954b-02ee53456a1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'module_offering/OfferingLetter.php?menu_id=5.1' and (text() = 'Input Offering Letter' or . = 'Input Offering Letter')]</value>
-      <webElementGuid>279a1610-f292-43b0-a1a8-2bbe33005e89</webElementGuid>
+      <webElementGuid>8befda4f-d0b3-40e1-970a-0fc784599069</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

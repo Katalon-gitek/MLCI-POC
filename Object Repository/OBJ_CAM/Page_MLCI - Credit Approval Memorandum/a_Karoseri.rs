@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Karoseri</name>
    <tag></tag>
-   <elementGuidId>0dbde958-87ee-467e-a128-a5fe4100b06e</elementGuidId>
+   <elementGuidId>3b546eba-ded3-4bd1-b7c6-43bdcfbf5e3a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>aa577ab9-4c5e-4479-8ebe-50a9b7bcfa8c</webElementGuid>
+      <webElementGuid>92885adf-6485-457d-99e9-6463dc2b0d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>module_other/karoseri_entry.php?menu_id=6.3.2</value>
-      <webElementGuid>02152e40-8ef4-42b9-a286-b5ffd4df34a7</webElementGuid>
+      <webElementGuid>b76d3492-4e56-413c-8366-b4a838c48e47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>main1</value>
-      <webElementGuid>c4dca9a3-cf5f-4887-9667-748361ee4f57</webElementGuid>
+      <webElementGuid>81b2e506-ef68-420d-870b-9e595f5d17e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Karoseri</value>
-      <webElementGuid>50418257-bf4b-4a09-9618-d2cfae56c20e</webElementGuid>
+      <webElementGuid>df8ec6c3-31ce-466a-a4c6-2c928780a47f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[2]/a[1]</value>
-      <webElementGuid>5c9d22fe-3681-4212-9ec1-fd2bb7063c11</webElementGuid>
+      <webElementGuid>1af9501a-c583-4264-842b-92c34ada75e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[5]/ul/li[3]/ul/li[2]/a</value>
-      <webElementGuid>6fa35a72-40d0-4952-a28f-e72dd526754b</webElementGuid>
+      <webElementGuid>664075ff-4648-47ba-a2db-bf3322e01798</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Karoseri')]</value>
-      <webElementGuid>310c7739-5b5a-4537-aea1-04784185eb30</webElementGuid>
+      <webElementGuid>56cbec97-4caf-4b53-8876-8f0219c39419</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/following::a[1]</value>
-      <webElementGuid>e4c3deaa-ef99-4b00-92ec-49bbb6cc0e7d</webElementGuid>
+      <webElementGuid>7293c006-4e21-427a-8987-bfe2aea3c72b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand - Type'])[1]/preceding::a[1]</value>
-      <webElementGuid>8f7491aa-a45d-4ad8-a30f-eb569f9e4323</webElementGuid>
+      <webElementGuid>d8604110-87e8-48cf-8e98-baf48afafcae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Brand'])[1]/preceding::a[2]</value>
-      <webElementGuid>b7baa3f3-aa02-47fc-90f6-565c731c2760</webElementGuid>
+      <webElementGuid>909e5bbe-a16e-499d-9536-463c43081998</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Karoseri']/parent::*</value>
-      <webElementGuid>0619ed01-6822-4a15-8726-03959fc0784c</webElementGuid>
+      <webElementGuid>b2b9d7ce-787c-47ad-8b3e-8ec6be580491</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'module_other/karoseri_entry.php?menu_id=6.3.2')]</value>
-      <webElementGuid>807fd923-594a-4ed5-a476-ad5302ebc8bd</webElementGuid>
+      <webElementGuid>b680b7e4-de94-44d5-8d92-a49575a9a544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[3]/ul/li[2]/a</value>
-      <webElementGuid>803814f9-b31d-4a0f-b49a-a27349310147</webElementGuid>
+      <webElementGuid>196b7e06-5283-42bc-953a-b5f25ddeb0f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'module_other/karoseri_entry.php?menu_id=6.3.2' and (text() = 'Karoseri' or . = 'Karoseri')]</value>
-      <webElementGuid>6af3c699-27a8-4cb5-a8d0-5c9edc21f1b5</webElementGuid>
+      <webElementGuid>257294d8-5be4-49df-bad7-83d16fcf62af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

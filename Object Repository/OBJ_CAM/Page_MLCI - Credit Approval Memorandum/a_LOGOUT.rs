@@ -3,7 +3,7 @@
    <description></description>
    <name>a_LOGOUT</name>
    <tag></tag>
-   <elementGuidId>af12f18d-9b72-4f07-9312-ab17c3319d21</elementGuidId>
+   <elementGuidId>4bcd9045-4c49-48ab-8b9d-6c14ad419e71</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9d277461-8904-4251-a9ea-a90491efcd0e</webElementGuid>
+      <webElementGuid>b4400b05-4c06-4cba-9dc7-8db7c78b8a4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>logout.php?log=1</value>
-      <webElementGuid>0ef72f18-1f76-4030-8fb3-9c15d12067cd</webElementGuid>
+      <webElementGuid>2c6e0eb9-18cb-4a39-8fda-570c87c6bd27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LOGOUT</value>
-      <webElementGuid>887f26ce-3f48-41bf-8db0-c56eacbbc9ba</webElementGuid>
+      <webElementGuid>08925399-c888-48e0-a295-db108dbb16bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[2]/span[1]/a[1]</value>
-      <webElementGuid>5a47f397-d5ec-476e-b7d8-a340acd79113</webElementGuid>
+      <webElementGuid>fa0bc3ad-1749-4282-ae0a-85148e2a884c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'LOGOUT')]</value>
-      <webElementGuid>e3ae05d2-85f0-4dfb-9164-add199f925b2</webElementGuid>
+      <webElementGuid>e374ea30-3278-4fa3-8633-2c6c004f8917</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='INTERNAL MEMORANDUM'])[1]/following::a[1]</value>
-      <webElementGuid>19290d21-d412-422e-a8eb-fb98d9ad7bf8</webElementGuid>
+      <webElementGuid>3e133608-3300-4d65-801a-44be38c3724e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[2]/span[1]/a[1]'])[1]/preceding::a[1]</value>
-      <webElementGuid>addd2ae9-b9ea-4f38-bf76-837ad618a1f7</webElementGuid>
+      <webElementGuid>eecb6598-884d-4839-9f50-118d1dc040f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='LOGOUT']/parent::*</value>
-      <webElementGuid>5ddccf36-9ed0-497e-ab3a-448fd3678996</webElementGuid>
+      <webElementGuid>3237565a-8319-4bd9-b387-4edc82774028</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'logout.php?log=1')]</value>
-      <webElementGuid>99fd20d3-7b53-4548-bbb6-1ca50286fe71</webElementGuid>
+      <webElementGuid>ebf1ae9f-bec2-464a-bc66-7051c9012243</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/a</value>
-      <webElementGuid>649b0c2d-421d-4d40-a7c2-b635625f2d3a</webElementGuid>
+      <webElementGuid>e68c3c72-94a9-4710-866a-a78c84baa6ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'logout.php?log=1' and (text() = 'LOGOUT' or . = 'LOGOUT')]</value>
-      <webElementGuid>57fcc4e7-ae21-4100-9130-601dfeb19df1</webElementGuid>
+      <webElementGuid>c7ca9100-ecb3-4668-980a-d2b0e2c42e0e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

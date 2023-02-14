@@ -3,7 +3,7 @@
    <description></description>
    <name>font_I - 111831280</name>
    <tag></tag>
-   <elementGuidId>e90571b4-47e4-4390-8f38-e23cfa06ddd5</elementGuidId>
+   <elementGuidId>5edcf0c3-dd22-4110-bf51-13bc0079d348</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>3a444ae9-fb05-4cf1-90bd-e685b42bba34</webElementGuid>
+      <webElementGuid>8fa81882-26a3-4b32-a9a9-2be1355fb16f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>I - 111831280 </value>
-      <webElementGuid>c46f8dd6-b091-4a16-baa5-cdc562678694</webElementGuid>
+      <webElementGuid>ff643c8a-6c85-410a-a3ea-3c447a104f18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;isipayment&quot;)/tr[1]/td[2]/a[1]/font[1]</value>
-      <webElementGuid>832ea3f1-5797-4878-9e78-47bc7224f7f5</webElementGuid>
+      <webElementGuid>c7ecf08c-8577-4eee-be0d-5b7a0c08b53b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/OBJ_CAM/Page_MLCI - Credit Approval Memorandum/iframe_LOGOUT_main1</value>
-      <webElementGuid>ed482171-1759-4e2c-9b37-218c3df5e4a9</webElementGuid>
+      <webElementGuid>87e80675-5e37-42d4-9b54-2e496b7fa8f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tbody[@id='isipayment']/tr/td[2]/a/font</value>
-      <webElementGuid>da16991e-46b8-464c-aaac-36078e5f7e95</webElementGuid>
+      <webElementGuid>aec48f10-8243-4886-913e-2a78506bfb45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::font[1]</value>
-      <webElementGuid>54b1089d-78bc-491b-a2e5-39a6b18c912a</webElementGuid>
+      <webElementGuid>d76705b5-5c88-422c-937f-61a6e0e8eb73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::font[1]</value>
-      <webElementGuid>41950eb7-7b45-4dec-a269-606833278b7f</webElementGuid>
+      <webElementGuid>d52c2a96-c76b-48df-90e4-45f55a73ad56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AMELIYAH JAYA PERKASA, PT.'])[1]/preceding::font[1]</value>
-      <webElementGuid>01e54173-e503-4574-a52f-9e935ae05c8f</webElementGuid>
+      <webElementGuid>e928f59f-237c-47e5-ae3c-4a0527965288</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ricky Indra'])[1]/preceding::font[1]</value>
-      <webElementGuid>8caffb28-e62f-4ab3-975d-c74f9c3d76df</webElementGuid>
+      <webElementGuid>cbaabbc4-3317-4c52-acf9-afebab287f47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//font</value>
-      <webElementGuid>5ca06dcd-14d1-455f-822b-7a9b3f2b7752</webElementGuid>
+      <webElementGuid>262543b9-d2bf-47a7-afa8-ef1acc9527ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//font[(text() = 'I - 111831280 ' or . = 'I - 111831280 ')]</value>
-      <webElementGuid>482fe5e1-b520-4423-894f-088f093c9800</webElementGuid>
+      <webElementGuid>a7fc1e93-9cae-48b2-bdb8-436eab625e6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

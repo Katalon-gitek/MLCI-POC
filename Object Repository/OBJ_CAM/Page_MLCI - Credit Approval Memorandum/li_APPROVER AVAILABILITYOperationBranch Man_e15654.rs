@@ -3,7 +3,7 @@
    <description></description>
    <name>li_APPROVER AVAILABILITYOperationBranch Man_e15654</name>
    <tag></tag>
-   <elementGuidId>a6dbf147-582c-4c30-be42-2b28c67b4e21</elementGuidId>
+   <elementGuidId>6d3a33f0-040f-4e4f-90ab-298a232d4f00</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>541a2497-fa73-449f-be9a-d982724b4bd7</webElementGuid>
+      <webElementGuid>87526c26-4348-45f8-afaa-71b1539927c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>submenu</value>
-      <webElementGuid>6117a95b-c24a-496f-b5d2-b6c24ca00174</webElementGuid>
+      <webElementGuid>e5ebe9b4-5084-4d0b-a7fe-aefe399c623d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>APPROVER AVAILABILITYOperationBranch ManagerCredit CommiteeCredit Reviewer RequestCredit Reviewer Head Request</value>
-      <webElementGuid>65e21637-56f4-496b-8feb-98a6a6ca83c4</webElementGuid>
+      <webElementGuid>ed6973c4-a05b-4c14-ac2a-c0d43de17577</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]</value>
-      <webElementGuid>b1b16220-3723-4d29-a36d-21524020e6c1</webElementGuid>
+      <webElementGuid>70c0a0c2-e33b-4261-ba57-670a8b66b7bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='treemenu2']/li[3]</value>
-      <webElementGuid>75517f40-6bf5-4343-9e9f-addebadc0781</webElementGuid>
+      <webElementGuid>57e988b7-dfb8-461f-98c9-6ad03d1f4645</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View IM Restructuring'])[1]/following::li[1]</value>
-      <webElementGuid>cbfbdda4-446d-4346-abf7-37d8781b1c5f</webElementGuid>
+      <webElementGuid>c2df2b28-f29e-4a08-a2e0-dc9ffceee37e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Report of Rejected Restructuring Covid 19'])[1]/following::li[2]</value>
-      <webElementGuid>fde9ea84-75ad-4c21-82c9-16f390957686</webElementGuid>
+      <webElementGuid>9ca4a05b-c0ff-4043-be80-3c976c1ebf9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='APPROVER AVAILABILITY']/parent::*</value>
-      <webElementGuid>2254b6b5-b167-4beb-82f6-ab58ce1cc276</webElementGuid>
+      <webElementGuid>7845b87f-d092-4f74-94a6-cf1e85042828</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/ul/li[3]</value>
-      <webElementGuid>25376f3c-346b-4502-a062-97618c5b56dd</webElementGuid>
+      <webElementGuid>0dab5073-e9f2-47ac-a8c2-904e56bde53e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'APPROVER AVAILABILITYOperationBranch ManagerCredit CommiteeCredit Reviewer RequestCredit Reviewer Head Request' or . = 'APPROVER AVAILABILITYOperationBranch ManagerCredit CommiteeCredit Reviewer RequestCredit Reviewer Head Request')]</value>
-      <webElementGuid>8f22ce36-65bc-4791-9171-78c5cd21fffc</webElementGuid>
+      <webElementGuid>a020e452-fad1-46d6-8871-bd9d92e74ae7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
